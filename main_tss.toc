@@ -1,5 +1,5 @@
 \babel@toc {ngerman}{}\relax 
-\contentsline {section}{\numberline {0.1}Einleitung}{1}{}%
-\contentsline {section}{\numberline {0.2}Hauptteil}{1}{}%
-\contentsline {section}{\numberline {0.3}Schluss}{1}{}%
+\contentsline {chapter}{\numberline {1}Einleitung}{1}{}%
+\contentsline {chapter}{\numberline {2}Hauptteil}{3}{}%
+\contentsline {chapter}{\numberline {3}Schluss}{5}{}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
