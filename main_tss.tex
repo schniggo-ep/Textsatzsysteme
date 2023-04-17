@@ -1,0 +1,47 @@
+\documentclass[
+11pt, 
+a4paper,
+DIV = 14,
+twoside,
+twocolumn, % z w e i s e i t i g e r A u f b a u
+parskip =half , % H a l b e Z e i l e A b s a t z a b s t a n d
+headsepline, % K o p f z e i l e n s e p a r a t i o n s l i n i e
+openright , % N e u e s K a p i t e l b e g i n n t r e c h t s
+]{scrreprt}
+
+\usepackage{lipsum}
+\usepackage{csquotes}
+\usepackage{graphicx}
+\usepackage[section]{placeins}
+\usepackage{fontenc}
+\usepackage{scrlayer-scrpage}
+\usepackage[ngerman]{babel}
+\usepackage[backend=biber,style=alphabetic]{biblatex}
+\usepackage{lmodern}
+\usepackage{blindtext}
+\usepackage[utf8]{inputenc}
+
+\addbibresource{ref/ref.bib}
+
+
+\begin{document}
+	\ohead{\includegraphics[height=45pt]{bilder/thi.png.png}}
+	
+	%%%%%%%%% KOPF %%%%%%%%%%%%%%%%%%%%%%%%%%
+	\title{Welche Rolle spielen künstliche Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen?}
+	\author{Nico Elsner\\
+		Studiengang: Robotik}
+	\date{\today}
+	\maketitle
+	\tableofcontents
+	\thispagestyle{empty}
+	
+	\section{Einleitung}
+	\setcounter{page}{1}
+	\blindtext
+	\section{Hauptteil}
+	\blindtext
+	\section{Schluss}
+	\blindtext
+
+\end{document}
