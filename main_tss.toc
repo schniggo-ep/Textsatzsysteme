@@ -1,5 +1,19 @@
 \babel@toc {ngerman}{}\relax 
 \contentsline {chapter}{\numberline {1}Einleitung}{1}{}%
-\contentsline {chapter}{\numberline {2}Hauptteil}{3}{}%
-\contentsline {chapter}{\numberline {3}Schluss}{5}{}%
+\contentsline {section}{\numberline {1.1}Hintergrund und Motivation des Themas}{1}{}%
+\contentsline {section}{\numberline {1.2}Zielsetzung und Fragestellung der Arbeit}{1}{}%
+\contentsline {chapter}{\numberline {2}Grundlagen der künstlichen Intelligenz und Machine Learning}{3}{}%
+\contentsline {section}{\numberline {2.1}Definition und Abgrenzung}{3}{}%
+\contentsline {section}{\numberline {2.2}Typen von Machine Learning Algorithmen}{3}{}%
+\contentsline {chapter}{\numberline {3}Optimierung von Energieversorgungssystemen}{5}{}%
+\contentsline {section}{\numberline {3.1}Überblick über Energieversorgungssystemen}{5}{}%
+\contentsline {section}{\numberline {3.2}Herausforderungen bei der Optimierung}{5}{}%
+\contentsline {section}{\numberline {3.3}Allgemeine Möglichkeiten der Optimierung}{5}{}%
+\contentsline {chapter}{\numberline {4}Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen}{7}{}%
+\contentsline {section}{\numberline {4.1}Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning}{7}{}%
+\contentsline {section}{\numberline {4.2}Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung}{7}{}%
+\contentsline {chapter}{\numberline {5}Kritische Betrachtung und Ausblick}{9}{}%
+\contentsline {section}{\numberline {5.1}Grenzen und Risiken von künstlicher Intelligenz}{9}{}%
+\contentsline {section}{\numberline {5.2}Perspektiven}{9}{}%
+\contentsline {chapter}{\numberline {6}Fazit und Ausblick}{11}{}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
