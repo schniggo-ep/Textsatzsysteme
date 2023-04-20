@@ -32,54 +32,59 @@ openright, % N e u e s K a p i t e l b e g i n n t r e c h t s
 		Studiengang: Robotik}
 	\date{\today}
 	\maketitle
-	\tableofcontents
-	\thispagestyle{empty}
 
-
+	% Seitenzahl ausblenden bis nach Inhaltsverzeichnis
+	\clearpage
+	\begingroup
+	  \pagestyle{empty}
+	  \renewcommand*\chapterpagestyle{empty}
+	  \tableofcontents 
+	\clearpage
+	\endgroup
 	\chapter{Einleitung}
 	\setcounter{page}{1}
-	...
+	\ldots
 	\section{Hintergrund und Motivation des Themas}
-	...
+	\ldots
 	\section{Zielsetzung und Fragestellung der Arbeit}
-	...
+	\ldots
 
 
 	\chapter{Grundlagen der künstlichen Intelligenz und Machine Learning}
-	...
+	\ldots
 	\section{Definition und Abgrenzung}
-	...
+	\ldots
 	\section{Typen von Machine Learning Algorithmen}
-	...
+	\ldots
 
 
 	\chapter{Optimierung von Energieversorgungssystemen}
-	...
+	\ldots
 	\section{Überblick über Energieversorgungssystemen}
-	...
+	\ldots
 	\section{Herausforderungen bei der Optimierung}
-	...
+	\ldots
 	\section{Allgemeine Möglichkeiten der Optimierung}
-	...
+	\ldots
 	
 
 	\chapter{Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen}
-	...
+	\ldots
 	\section{Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning}
-	...
+	\ldots
 	\section{Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung}
-	...
+	\ldots
 
 
 	\chapter{Kritische Betrachtung und Ausblick}
-	...
+	\ldots
 	\section{Grenzen und Risiken von künstlicher Intelligenz}
-	...
+	\ldots
 	\section{Perspektiven}
-	...
+	\ldots
 
 
 	\chapter{Fazit und Ausblick}
-	...
+	\ldots
 
 \end{document}
