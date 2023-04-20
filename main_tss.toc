@@ -17,3 +17,4 @@
 \contentsline {section}{\numberline {5.2}Perspektiven}{9}{}%
 \contentsline {chapter}{\numberline {6}Fazit und Ausblick}{11}{}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

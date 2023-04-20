@@ -1,11 +1,11 @@
 # Fdb version 4
-["biber main_tss"] 1681814413 "main_tss.bcf" "main_tss.bbl" "main_tss" 1681977239 0
-  "main_tss.bcf" 1681977238 107447 9c81447484a7da327d3feb62e3a60872 "pdflatex"
+["biber main_tss"] 1681980111 "main_tss.bcf" "main_tss.bbl" "main_tss" 1681980131 0
+  "main_tss.bcf" 1681980131 107447 9c81447484a7da327d3feb62e3a60872 "pdflatex"
   (generated)
   "main_tss.bbl"
   "main_tss.blg"
   (rewritten before read)
-["pdflatex"] 1681977225 "c:/Users/Ms Laptop/Documents/GitHub/Textsatzsysteme/main_tss.tex" "main_tss.pdf" "main_tss" 1681977239 0
+["pdflatex"] 1681980124 "c:/Users/Ms Laptop/Documents/GitHub/Textsatzsysteme/main_tss.tex" "main_tss.pdf" "main_tss" 1681980131 0
   "C:/Users/Ms Laptop/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1681736590 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Ms Laptop/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1679988562 23178298 bb0218f6cd98cb202bdeb636ed15ae04 ""
   "C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc" 1256933040 2327 9d6df24f9c4f7368395224341a95523a ""
@@ -100,12 +100,13 @@
   "C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/tex/latex/logreq/logreq.sty" 1280941015 6187 b27afc771af565d3a9ff1ca7d16d0d46 ""
   "C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/tex/latex/tools/xspace.sty" 1667245866 4545 4c279ac9292a1be8afa9ab2f1d3299c2 ""
   "C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/Ms Laptop/Documents/GitHub/Textsatzsysteme/main_tss.tex" 1681977220 2386 458c50b389ddd8d7c59696f9b64a110f ""
-  "main_tss.aux" 1681977238 3221 f328f3a7c5758f7e96280eec3b82887d "pdflatex"
-  "main_tss.bbl" 1681814419 486 ee04f40f768daeed26442158e95aba61 "biber main_tss"
-  "main_tss.run.xml" 1681977238 2366 d0e18e578bda6fa1209fddfa55ace89f "pdflatex"
-  "main_tss.tex" 1681977220 2386 458c50b389ddd8d7c59696f9b64a110f ""
-  "main_tss.toc" 1681977238 1680 fdc4dc1ab9ea345e1b1ce172a915ed86 "pdflatex"
+  "bilder/thi.png.png" 1681735972 281069 81900fdd0c612cfa479eb71932e2b3f1 ""
+  "c:/Users/Ms Laptop/Documents/GitHub/Textsatzsysteme/main_tss.tex" 1681980085 2520 fa6e75fa1b93c003c92b3c6bb69c06fb ""
+  "main_tss.aux" 1681980131 3301 106dbfc7503a9445adc36e8f0cc14a01 "pdflatex"
+  "main_tss.bbl" 1681980116 486 ee04f40f768daeed26442158e95aba61 "biber main_tss"
+  "main_tss.run.xml" 1681980131 2366 d0e18e578bda6fa1209fddfa55ace89f "pdflatex"
+  "main_tss.tex" 1681980085 2520 fa6e75fa1b93c003c92b3c6bb69c06fb ""
+  "main_tss.toc" 1681980131 1745 c7bd2cb54199c4c3ca29bc61e2b7625c "pdflatex"
   (generated)
   "main_tss.aux"
   "main_tss.bcf"
