@@ -34,5 +34,12 @@
     "**/.vscode/**"
   ],
   "C_Cpp_Runner.useAddressSanitizer": false,
-  "cSpell.language": "en,de-DE"
+  "cSpell.language": "en,de-DE",
+  "cSpell.words": [
+    "contentsline",
+    "ngerman",
+    "numberline",
+    "providecommand",
+    "tocbasic"
+  ]
 }

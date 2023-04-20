@@ -605,6 +605,10 @@ INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy8
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy6.tfm
 OUTPUT main_tss.toc
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmssbx10.tfm
+INPUT .\kapitel\Hintergrund und Motivation des Themas.tex
+INPUT kapitel\Hintergrund und Motivation des Themas.tex
+INPUT .\kapitel\Hintergrund und Motivation des Themas.tex
+INPUT kapitel\Hintergrund und Motivation des Themas.tex
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmro10.tfm
 INPUT main_tss.aux
 INPUT main_tss.run.xml
