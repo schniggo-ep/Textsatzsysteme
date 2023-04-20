@@ -1,9 +1,9 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
-[0] Config.pm:310> INFO - Logfile is 'main_tss.blg'
-[253] biber-MSWIN64:340> INFO - === 
-[316] Biber.pm:419> INFO - Reading 'main_tss.bcf'
-[576] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
-[662] bbl.pm:660> INFO - Writing 'main_tss.bbl' with encoding 'UTF-8'
-[663] bbl.pm:763> INFO - Output to main_tss.bbl
-[664] Biber.pm:131> WARN - The file 'main_tss.bcf' does not contain any citations!
-[664] Biber.pm:133> INFO - WARNINGS: 1
+[1] Config.pm:310> INFO - Logfile is 'main_tss.blg'
+[221] biber-MSWIN64:340> INFO - === 
+[273] Biber.pm:419> INFO - Reading 'main_tss.bcf'
+[464] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[487] bbl.pm:660> INFO - Writing 'main_tss.bbl' with encoding 'UTF-8'
+[487] bbl.pm:763> INFO - Output to main_tss.bbl
+[488] Biber.pm:131> WARN - The file 'main_tss.bcf' does not contain any citations!
+[488] Biber.pm:133> INFO - WARNINGS: 1
