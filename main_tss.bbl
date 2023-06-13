@@ -19,6 +19,33 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{lanquillon2019grundzuge}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d6e4f4e0202d3c530d09c98bd6fc8fc9}{%
+           family={Lanquillon},
+           familyi={L\bibinitperiod},
+           given={Carsten},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{d6e4f4e0202d3c530d09c98bd6fc8fc9}
+      \strng{fullhash}{d6e4f4e0202d3c530d09c98bd6fc8fc9}
+      \strng{bibnamehash}{d6e4f4e0202d3c530d09c98bd6fc8fc9}
+      \strng{authorbibnamehash}{d6e4f4e0202d3c530d09c98bd6fc8fc9}
+      \strng{authornamehash}{d6e4f4e0202d3c530d09c98bd6fc8fc9}
+      \strng{authorfullhash}{d6e4f4e0202d3c530d09c98bd6fc8fc9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Blockchain und maschinelles Lernen: Wie das maschinelle Lernen und die Distributed-Ledger-Technologie voneinander profitieren}
+      \field{title}{Grundzüge des maschinellen Lernens}
+      \field{year}{2019}
+      \field{pages}{89\bibrangedash 142}
+      \range{pages}{54}
+    \endentry
     \entry{matzka2021unuberwachtes}{incollection}{}
       \name{author}{1}{}{%
         {{hash=6112deb28d240d0b60dd47be4ff562ba}{%
@@ -36,8 +63,8 @@
       \strng{authorbibnamehash}{6112deb28d240d0b60dd47be4ff562ba}
       \strng{authornamehash}{6112deb28d240d0b60dd47be4ff562ba}
       \strng{authorfullhash}{6112deb28d240d0b60dd47be4ff562ba}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Künstliche Intelligenz in den Ingenieurwissenschaften: Maschinelles Lernen verstehen und bewerten}

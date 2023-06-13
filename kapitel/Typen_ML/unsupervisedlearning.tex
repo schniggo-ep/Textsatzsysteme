@@ -1,4 +1,15 @@
 Beim unüberwachten Lernen gibt es keine Zielwerte, sondern das Ziel besteht
-darin, Muster und Strukturen in den Daten zu entdecken. Das Modell lernt
-eigenständig, wie es die Daten gruppieren oder Zusammenhänge finden kann.
-Clustering und Dimensionsreduktion sind Beispiele für unüberwachtes Lernen.
+darin, Muster und Strukturen in den Daten zu entdecken. Für das System liegen
+lediglich Eingabewerte vor, jedoch nicht die zugehörigen Ausgabewerte, wie beim
+überwachten Lernen.\cite{lanquillon2019grundzuge}Das Modell lernt eigenständig,
+wie es die Daten gruppieren oder Zusammenhänge finden kann. Clustering und
+Dimensionsreduktion sind Beispiele für unüberwachtes Lernen. Im Folgenden wird
+Clustering genauer erläutert: Beim hierarchischen Clustering geht es darum,
+Entfernungen zwischen verschiedenen Punkten zu messen. Eine der einfachsten
+Arten, die Distanz zu ermitteln ist die sogenannte Manhattan-Funktion. Diese
+spiegelt den Weg wieder, der gegangen werden müsste, wenn man einem Gitternetz
+folgt. Betrachtet man die Punkte X=(X1,X2,...) und Y=(Y1,Y2,...) ergibt sich
+die folgende Formel:
+\begin{equation*}
+    d = \sum_{i=1}^n |X_i -Y_i|
+\end{equation*}
