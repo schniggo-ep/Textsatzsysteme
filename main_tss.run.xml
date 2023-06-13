@@ -54,8 +54,9 @@
       <file>blx-compat.def</file>
       <file>biblatex.def</file>
       <file>standard.bbx</file>
-      <file>alphabetic.bbx</file>
-      <file>alphabetic.cbx</file>
+      <file>numeric.bbx</file>
+      <file>numeric-verb.bbx</file>
+      <file>numeric-verb.cbx</file>
       <file>biblatex.cfg</file>
       <file>german.lbx</file>
       <file>ngerman.lbx</file>
@@ -80,7 +81,7 @@
       <file>main_tss.bcf</file>
     </requires>
     <requires type="editable">
-      <file>ref/ref.bib</file>
+      <file>ref/ref_liste.bib</file>
     </requires>
   </external>
 </requests>

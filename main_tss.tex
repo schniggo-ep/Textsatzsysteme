@@ -1,37 +1,46 @@
-\documentclass[
-11pt, 
-a4paper,
-DIV = 14,
-twoside,
-twocolumn, 
-parskip =half, 
-headsepline,
-openright,
-]{scrreprt}
+\documentclass[conference]{IEEEtran}
+\IEEEoverridecommandlockouts
+%immer rechts kapitel beginnen
 
-\usepackage{lipsum}
+%Default-einstellungen für das Dokument
+
+\usepackage[T1]{fontenc}    %Schriftcodierung
+\usepackage[utf8]{inputenc}    %Dateicodierung
+\usepackage[ngerman]{babel} %Sprachpaket(Silbentrennung,überschriften, Abbildungen)
 \usepackage{graphicx}
-%\usepackage[chapter]{placeins}
-\usepackage{fontenc}
-\usepackage{scrlayer-scrpage}
-\usepackage[ngerman]{babel}
-\usepackage{lmodern}
+\usepackage{lmodern} %Vektorschrift
+\usepackage{sansmath}
 \usepackage{blindtext}
-\usepackage[utf8]{inputenc}
-\usepackage[backend=biber,style=alphabetic]{biblatex}
-\usepackage{csquotes}
-\addbibresource{ref/ref.bib}
+\usepackage{svg}
 
-\publishers{
-	\begin{tabular}{rl} %jedes C für eine spalte c für centrered
+%Literatur anpassen
+\usepackage[
+    backend=biber,
+    style=numeric-verb,
+    sorting=none % numeric-verb, numeric-comb
+]{biblatex}
+\addbibresource{ref/ref_liste.bib}
 
-		Erstprüfer: & Prof. Dr. Christian Pfitzner   \\
-		Betreuer:   & Prof. Dr. Christian Pfitzner \\ 
-		Ausgabedatum: & 23.03.2023 \\
-		Abgabedatum: & 31.05.2023  \\
+%Schriftanpassungen
+\renewcommand{\familydefault}{\sfdefault} %serifenlose Schrift
+\sansmath            %Aktivieren von Paket "Sansmath"
 
-	\end{tabular}
-}
+\usepackage[
+    automark, %automatische Kolumne
+    headsepline %Trennlinie in Kopfzeile
+]{scrlayer-scrpage}
+\pagestyle{scrheadings}
+\clearscrheadfoot
+
+\ohead[]{\headmark} %dynamische kolumne in kopfzeile
+\ofoot[\pagemark]{\pagemark} %Seitenzahl in Fußzeile außen
+
+%wichtige Pakete
+\graphicspath{{bilder/}{}}  %Pfad zu den Bildern. mehrere pfade mit {{}{}{}} 
+
+\title{Welche Rolle spielen künstliche Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen?}
+
+\author{{\Large Nico Elsner}}
 
 
 
@@ -50,57 +59,57 @@ openright,
 	\clearpage
 	\begingroup
 	  \pagestyle{empty}
-	  \renewcommand*\chapterpagestyle{empty}
 	  \tableofcontents 
 	\clearpage
 	\endgroup
 	
 	\thispagestyle{empty}
-
+	\begin{abstract}
+		\input{abstract.tex}
+	\end{abstract}
 	%% Einleitung
-	\chapter{Einleitung}
+	\section{Einleitung}
 	\setcounter{page}{1}
-	\section{Hintergrund und Motivation des Themas}
+	\subsection{Hintergrund und Motivation des Themas}
 	\input{kapitel/Hintergrund und Motivation des Themas.tex}
 	%\section{Zielsetzung und Fragestellung der Arbeit}
 	%\ldots
 
 
-	\chapter{Grundlagen der künstlichen Intelligenz und Machine Learning}
+	\section{Grundlagen der künstlichen Intelligenz und Machine Learning}
 	\input{kapitel/Grundlagen der künstlichen Intelligenz und Machine Learning.tex}
 	%\section{Definition und Abgrenzung}
 	%\ldots
-	%\section{Typen von Machine Learning Algorithmen}
-	%\ldots
+	\subsection{Typen von Machine Learning Algorithmen}
+	\input{kapitel/typen von Machine Machine Learning.tex}
 
-
-	\chapter{Optimierung von Energieversorgungssystemen}
+	\section{Optimierung von Energieversorgungssystemen}
 	\input{kapitel/Optimierung von Energieversorgungssystemen.tex}
-	\section{Überblick über Energieversorgungssystemen}
+	\subsection{Überblick über Energieversorgungssystemen}
 	\input{kapitel/Überblick von Energieversorgungssystemen.tex}
-	\section{Herausforderungen bei der Optimierung}
+	\subsection{Herausforderungen bei der Optimierung}
 	\input{kapitel/Herausforderungen bei der Optimierung.tex}
-	\section{Allgemeine Möglichkeiten der Optimierung}
+	\subsection{Allgemeine Möglichkeiten der Optimierung}
 	\input{kapitel/Allgemeine Möglichkeiten der Optimierung.tex}
 	
 
-	\chapter{Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen}
+	\section{Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen}
 	\input{kapitel/Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen.tex}
-	\section{Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning}
+	\subsection{Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning}
 	\input{kapitel/Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex}
-	\section{Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung}
+	\subsection{Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung}
 	\input{kapitel/Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung.tex}
 
 
-	\chapter{Kritische Betrachtung und Ausblick}
+	\section{Kritische Betrachtung und Ausblick}
 	\input{kapitel/Kritische Betrachtung und Ausblick.tex}
-	\section{Grenzen und Risiken von künstlicher Intelligenz}
+	\subsection{Grenzen und Risiken von künstlicher Intelligenz}
 	\input{kapitel/Grenzen und Risiken von künstlicher Intelligenz.tex}
-	\section{Perspektiven}
+	\subsection{Perspektiven}
 	\input{kapitel/Perspektiven.tex}
 
 
-	\chapter{Fazit und Ausblick}
+	\section{Fazit und Ausblick}
 	\input{kapitel/Fazit und Ausblick.tex}
 
 \end{document}
