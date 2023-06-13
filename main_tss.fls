@@ -503,6 +503,30 @@ INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\svg\svg.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
@@ -873,6 +897,9 @@ INPUT .\kapitel\Typen_ML\unsupervisedlearning.tex
 INPUT kapitel\Typen_ML\unsupervisedlearning.tex
 OUTPUT main_tss.pdf
 INPUT C:\Users\Ms Laptop\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT .\bilder\Distanzen.svg
+INPUT bilder\Distanzen.svg
+INPUT .\bilder\Distanzen.svg
 INPUT .\kapitel\Typen_ML\semisupervisedlearning.tex
 INPUT kapitel\Typen_ML\semisupervisedlearning.tex
 INPUT .\kapitel\Typen_ML\semisupervisedlearning.tex
@@ -885,10 +912,6 @@ INPUT .\kapitel\Typen_ML\reinforcementlearning.tex
 INPUT kapitel\Typen_ML\reinforcementlearning.tex
 INPUT .\kapitel\Typen_ML\reinforcementlearning.tex
 INPUT kapitel\Typen_ML\reinforcementlearning.tex
-INPUT .\kapitel\Typen_ML\transferlearning.tex
-INPUT kapitel\Typen_ML\transferlearning.tex
-INPUT .\kapitel\Typen_ML\transferlearning.tex
-INPUT kapitel\Typen_ML\transferlearning.tex
 INPUT .\kapitel\Optimierung von Energieversorgungssystemen.tex
 INPUT kapitel\Optimierung von Energieversorgungssystemen.tex
 INPUT .\kapitel\Optimierung von Energieversorgungssystemen.tex
@@ -905,10 +928,6 @@ INPUT .\kapitel\EVS\Erneuerbare Energieversorgungssysteme.tex
 INPUT kapitel\EVS\Erneuerbare Energieversorgungssysteme.tex
 INPUT .\kapitel\EVS\Erneuerbare Energieversorgungssysteme.tex
 INPUT kapitel\EVS\Erneuerbare Energieversorgungssysteme.tex
-INPUT .\kapitel\EVS\Dezentrale Energieversorgungssysteme.tex
-INPUT kapitel\EVS\Dezentrale Energieversorgungssysteme.tex
-INPUT .\kapitel\EVS\Dezentrale Energieversorgungssysteme.tex
-INPUT kapitel\EVS\Dezentrale Energieversorgungssysteme.tex
 INPUT .\bilder\thi.png.png
 INPUT .\bilder\thi.png.png
 INPUT bilder\thi.png.png
@@ -916,6 +935,10 @@ INPUT .\bilder\thi.png.png
 INPUT .\bilder\thi.png.png
 INPUT .\bilder\thi.png.png
 INPUT .\bilder\thi.png.png
+INPUT .\kapitel\EVS\Dezentrale Energieversorgungssysteme.tex
+INPUT kapitel\EVS\Dezentrale Energieversorgungssysteme.tex
+INPUT .\kapitel\EVS\Dezentrale Energieversorgungssysteme.tex
+INPUT kapitel\EVS\Dezentrale Energieversorgungssysteme.tex
 INPUT .\kapitel\EVS\Intelligente Energieversorgungssysteme.tex
 INPUT kapitel\EVS\Intelligente Energieversorgungssysteme.tex
 INPUT .\kapitel\EVS\Intelligente Energieversorgungssysteme.tex

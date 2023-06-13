@@ -46,6 +46,28 @@
       \field{pages}{89\bibrangedash 142}
       \range{pages}{54}
     \endentry
+    \entry{madhulatha2012overview}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e624cfe94b5a41c05eafd05aec13bb15}{%
+           family={Madhulatha},
+           familyi={M\bibinitperiod},
+           given={T\bibnamedelima Soni},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e624cfe94b5a41c05eafd05aec13bb15}
+      \strng{fullhash}{e624cfe94b5a41c05eafd05aec13bb15}
+      \strng{bibnamehash}{e624cfe94b5a41c05eafd05aec13bb15}
+      \strng{authorbibnamehash}{e624cfe94b5a41c05eafd05aec13bb15}
+      \strng{authornamehash}{e624cfe94b5a41c05eafd05aec13bb15}
+      \strng{authorfullhash}{e624cfe94b5a41c05eafd05aec13bb15}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1205.1117}
+      \field{title}{An overview on clustering methods}
+      \field{year}{2012}
+    \endentry
     \entry{matzka2021unuberwachtes}{incollection}{}
       \name{author}{1}{}{%
         {{hash=6112deb28d240d0b60dd47be4ff562ba}{%
@@ -63,8 +85,8 @@
       \strng{authorbibnamehash}{6112deb28d240d0b60dd47be4ff562ba}
       \strng{authornamehash}{6112deb28d240d0b60dd47be4ff562ba}
       \strng{authorfullhash}{6112deb28d240d0b60dd47be4ff562ba}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Künstliche Intelligenz in den Ingenieurwissenschaften: Maschinelles Lernen verstehen und bewerten}

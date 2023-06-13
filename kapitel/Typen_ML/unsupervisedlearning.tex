@@ -8,8 +8,29 @@ Clustering genauer erläutert: Beim hierarchischen Clustering geht es darum,
 Entfernungen zwischen verschiedenen Punkten zu messen. Eine der einfachsten
 Arten, die Distanz zu ermitteln ist die sogenannte Manhattan-Funktion. Diese
 spiegelt den Weg wieder, der gegangen werden müsste, wenn man einem Gitternetz
-folgt. Betrachtet man die Punkte X=(X1,X2,...) und Y=(Y1,Y2,...) ergibt sich
-die folgende Formel:
+folgt. Betrachtet man die Punkte X=($X_1$,$X_2$,...) und Y=($Y_1$,$Y_2$,...)
+ergibt sich die folgende Formel:
 \begin{equation*}
     d = \sum_{i=1}^n |X_i -Y_i|
 \end{equation*}
+
+n repräsentiert hierbei die Anzahl der verschiedenen Variablen, $X_i$ und $Y_i$
+sind die Werte der jeweiligen i-ten Variable.\\
+
+Eine weitere verbreitete Messung der Entfernung zweier Punkte zueinander ist
+die euklidische Distanz. Sie basiert auf dem Satz des Pythagoras und ermittelt
+den Weg über die Wurzel der Quadriierten Differenz der Punkte:
+\begin{equation*}
+    \let\oldsqrt\sqrt
+    d = \sqrt{\sum_{j=1}^n (x_j-y_j)^2}
+\end{equation*}
+\cite{madhulatha2012overview}
+
+Mithilfe der folgenden Abbildung wird der Unterschied nochmals grafisch
+dargestellt:
+\begin{figure}
+    \centering
+    \includesvg[width=0.8\textwidth]{bilder/Distanzen.svg}
+    \caption{Veranschaulichung der Euklidischen gegenüber der Manhattan Distanz}
+    \label{fig:dist}
+\end{figure}
