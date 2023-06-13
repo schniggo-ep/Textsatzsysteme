@@ -95,6 +95,94 @@
       \field{pages}{171\bibrangedash 197}
       \range{pages}{27}
     \endentry
+    \entry{renner2010grundlagen}{article}{}
+      \name{author}{1}{}{%
+        {{hash=73956ce641f10f0f136e46f1736dd612}{%
+           family={Renner},
+           familyi={R\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{73956ce641f10f0f136e46f1736dd612}
+      \strng{fullhash}{73956ce641f10f0f136e46f1736dd612}
+      \strng{bibnamehash}{73956ce641f10f0f136e46f1736dd612}
+      \strng{authorbibnamehash}{73956ce641f10f0f136e46f1736dd612}
+      \strng{authornamehash}{73956ce641f10f0f136e46f1736dd612}
+      \strng{authorfullhash}{73956ce641f10f0f136e46f1736dd612}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Integratives Umweltmanagement: Systemorientierte Zusammenhänge zwischen Politik, Recht, Management und Technik}
+      \field{title}{Grundlagen der Solarenergie}
+      \field{year}{2010}
+      \field{pages}{553\bibrangedash 561}
+      \range{pages}{9}
+    \endentry
+    \entry{schabbach2014solarthermie}{book}{}
+      \name{author}{2}{}{%
+        {{hash=d70b6d00839c8b49f372258ca4d252a7}{%
+           family={Schabbach},
+           familyi={S\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=52bfe7fc8e377ccdc1ab0cc9aa1696cf}{%
+           family={Leibbrandt},
+           familyi={L\bibinitperiod},
+           given={Pascal},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{54c3dac8e871f2ac24e8599845c069ef}
+      \strng{fullhash}{54c3dac8e871f2ac24e8599845c069ef}
+      \strng{bibnamehash}{54c3dac8e871f2ac24e8599845c069ef}
+      \strng{authorbibnamehash}{54c3dac8e871f2ac24e8599845c069ef}
+      \strng{authornamehash}{54c3dac8e871f2ac24e8599845c069ef}
+      \strng{authorfullhash}{54c3dac8e871f2ac24e8599845c069ef}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Solarthermie}
+      \field{year}{2014}
+    \endentry
+    \entry{osterhage2015windkraft}{article}{}
+      \name{author}{2}{}{%
+        {{hash=2a123a5385cf77c0276a60b086a32c54}{%
+           family={Osterhage},
+           familyi={O\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=2a123a5385cf77c0276a60b086a32c54}{%
+           family={Osterhage},
+           familyi={O\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{6617479bc3d482abc17f55555cecdd0f}
+      \strng{fullhash}{6617479bc3d482abc17f55555cecdd0f}
+      \strng{bibnamehash}{6617479bc3d482abc17f55555cecdd0f}
+      \strng{authorbibnamehash}{6617479bc3d482abc17f55555cecdd0f}
+      \strng{authornamehash}{6617479bc3d482abc17f55555cecdd0f}
+      \strng{authorfullhash}{6617479bc3d482abc17f55555cecdd0f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Die Energiewende: Potenziale bei der Energiegewinnung: Eine allgemeinverständliche Einführung}
+      \field{title}{Windkraft}
+      \field{year}{2015}
+      \field{pages}{17\bibrangedash 21}
+      \range{pages}{5}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

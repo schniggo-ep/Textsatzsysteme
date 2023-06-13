@@ -2367,6 +2367,9 @@
     <bcf:citekey order="4" intorder="1">lanquillon2019grundzuge</bcf:citekey>
     <bcf:citekey order="5" intorder="1">matzka2021unuberwachtes</bcf:citekey>
     <bcf:citekey order="6" intorder="1">lanquillon2019grundzuge</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">renner2010grundlagen</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">schabbach2014solarthermie</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">osterhage2015windkraft</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
