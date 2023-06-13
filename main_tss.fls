@@ -900,6 +900,31 @@ INPUT C:\Users\Ms Laptop\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT .\bilder\Distanzen.svg
 INPUT bilder\Distanzen.svg
 INPUT .\bilder\Distanzen.svg
+INPUT .\svg-inkscape\Distanzen_svg-tex.pdf
+INPUT .\svg-inkscape\Distanzen_svg-tex.pdf_tex
+INPUT svg-inkscape\Distanzen_svg-tex.pdf_tex
+INPUT .\svg-inkscape\Distanzen_svg-tex.pdf
+INPUT svg-inkscape\Distanzen_svg-tex.pdf
+INPUT .\svg-inkscape\Distanzen_svg-tex.pdf_tex
+INPUT svg-inkscape\Distanzen_svg-tex.pdf_tex
+INPUT .\svg-inkscape\Distanzen_svg-tex.pdf
+INPUT .\svg-inkscape\Distanzen_svg-tex.pdf
+INPUT .\svg-inkscape\Distanzen_svg-tex.pdf_tex
+INPUT svg-inkscape\Distanzen_svg-tex.pdf_tex
+INPUT .\svg-inkscape\Distanzen_svg-tex.pdf_tex
+INPUT svg-inkscape\Distanzen_svg-tex.pdf_tex
+INPUT .\svg-inkscape\Distanzen_svg-tex.pdf
+INPUT .\svg-inkscape\Distanzen_svg-tex.pdf
+INPUT svg-inkscape\Distanzen_svg-tex.pdf
+INPUT .\svg-inkscape\Distanzen_svg-tex.pdf
+INPUT .\svg-inkscape\Distanzen_svg-tex.pdf
+INPUT .\svg-inkscape\Distanzen_svg-tex.pdf
+INPUT .\svg-inkscape\Distanzen_svg-tex.pdf
+INPUT .\svg-inkscape\Distanzen_svg-tex.pdf
+INPUT svg-inkscape\Distanzen_svg-tex.pdf
+INPUT .\svg-inkscape\Distanzen_svg-tex.pdf
+INPUT .\svg-inkscape\Distanzen_svg-tex.pdf
+INPUT .\svg-inkscape\Distanzen_svg-tex.pdf
 INPUT .\kapitel\Typen_ML\semisupervisedlearning.tex
 INPUT kapitel\Typen_ML\semisupervisedlearning.tex
 INPUT .\kapitel\Typen_ML\semisupervisedlearning.tex
@@ -912,6 +937,46 @@ INPUT .\kapitel\Typen_ML\reinforcementlearning.tex
 INPUT kapitel\Typen_ML\reinforcementlearning.tex
 INPUT .\kapitel\Typen_ML\reinforcementlearning.tex
 INPUT kapitel\Typen_ML\reinforcementlearning.tex
+INPUT .\bilder\reinforcementlearning.svg
+INPUT bilder\reinforcementlearning.svg
+INPUT .\bilder\reinforcementlearning.svg
+INPUT .\svg-inkscape\reinforcementlearning_svg-tex.pdf
+INPUT .\svg-inkscape\reinforcementlearning_svg-tex.pdf_tex
+INPUT svg-inkscape\reinforcementlearning_svg-tex.pdf_tex
+INPUT .\svg-inkscape\reinforcementlearning_svg-tex.pdf
+INPUT svg-inkscape\reinforcementlearning_svg-tex.pdf
+INPUT .\svg-inkscape\reinforcementlearning_svg-tex.pdf_tex
+INPUT svg-inkscape\reinforcementlearning_svg-tex.pdf_tex
+INPUT .\svg-inkscape\reinforcementlearning_svg-tex.pdf
+INPUT .\svg-inkscape\reinforcementlearning_svg-tex.pdf
+INPUT .\svg-inkscape\reinforcementlearning_svg-tex.pdf_tex
+INPUT svg-inkscape\reinforcementlearning_svg-tex.pdf_tex
+INPUT .\svg-inkscape\reinforcementlearning_svg-tex.pdf_tex
+INPUT svg-inkscape\reinforcementlearning_svg-tex.pdf_tex
+INPUT .\svg-inkscape\reinforcementlearning_svg-tex.pdf
+INPUT .\svg-inkscape\reinforcementlearning_svg-tex.pdf
+INPUT svg-inkscape\reinforcementlearning_svg-tex.pdf
+INPUT .\svg-inkscape\reinforcementlearning_svg-tex.pdf
+INPUT .\svg-inkscape\reinforcementlearning_svg-tex.pdf
+INPUT .\svg-inkscape\reinforcementlearning_svg-tex.pdf
+INPUT .\svg-inkscape\reinforcementlearning_svg-tex.pdf
+INPUT .\svg-inkscape\reinforcementlearning_svg-tex.pdf
+INPUT svg-inkscape\reinforcementlearning_svg-tex.pdf
+INPUT .\svg-inkscape\reinforcementlearning_svg-tex.pdf
+INPUT .\svg-inkscape\reinforcementlearning_svg-tex.pdf
+INPUT .\svg-inkscape\reinforcementlearning_svg-tex.pdf
+INPUT .\svg-inkscape\reinforcementlearning_svg-tex.pdf
+INPUT .\svg-inkscape\reinforcementlearning_svg-tex.pdf
+INPUT svg-inkscape\reinforcementlearning_svg-tex.pdf
+INPUT .\svg-inkscape\reinforcementlearning_svg-tex.pdf
+INPUT .\svg-inkscape\reinforcementlearning_svg-tex.pdf
+INPUT .\svg-inkscape\reinforcementlearning_svg-tex.pdf
+INPUT .\svg-inkscape\reinforcementlearning_svg-tex.pdf
+INPUT .\svg-inkscape\reinforcementlearning_svg-tex.pdf
+INPUT svg-inkscape\reinforcementlearning_svg-tex.pdf
+INPUT .\svg-inkscape\reinforcementlearning_svg-tex.pdf
+INPUT .\svg-inkscape\reinforcementlearning_svg-tex.pdf
+INPUT .\svg-inkscape\reinforcementlearning_svg-tex.pdf
 INPUT .\kapitel\Optimierung von Energieversorgungssystemen.tex
 INPUT kapitel\Optimierung von Energieversorgungssystemen.tex
 INPUT .\kapitel\Optimierung von Energieversorgungssystemen.tex
@@ -924,10 +989,6 @@ INPUT .\kapitel\EVS\Konventionelle Energieversorgungssysteme.tex
 INPUT kapitel\EVS\Konventionelle Energieversorgungssysteme.tex
 INPUT .\kapitel\EVS\Konventionelle Energieversorgungssysteme.tex
 INPUT kapitel\EVS\Konventionelle Energieversorgungssysteme.tex
-INPUT .\kapitel\EVS\Erneuerbare Energieversorgungssysteme.tex
-INPUT kapitel\EVS\Erneuerbare Energieversorgungssysteme.tex
-INPUT .\kapitel\EVS\Erneuerbare Energieversorgungssysteme.tex
-INPUT kapitel\EVS\Erneuerbare Energieversorgungssysteme.tex
 INPUT .\bilder\thi.png.png
 INPUT .\bilder\thi.png.png
 INPUT bilder\thi.png.png
@@ -935,6 +996,10 @@ INPUT .\bilder\thi.png.png
 INPUT .\bilder\thi.png.png
 INPUT .\bilder\thi.png.png
 INPUT .\bilder\thi.png.png
+INPUT .\kapitel\EVS\Erneuerbare Energieversorgungssysteme.tex
+INPUT kapitel\EVS\Erneuerbare Energieversorgungssysteme.tex
+INPUT .\kapitel\EVS\Erneuerbare Energieversorgungssysteme.tex
+INPUT kapitel\EVS\Erneuerbare Energieversorgungssysteme.tex
 INPUT .\kapitel\EVS\Dezentrale Energieversorgungssysteme.tex
 INPUT kapitel\EVS\Dezentrale Energieversorgungssysteme.tex
 INPUT .\kapitel\EVS\Dezentrale Energieversorgungssysteme.tex

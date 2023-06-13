@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main_tss"] 0 "main_tss.bcf" "main_tss.bbl" "main_tss" 0 -1
-  "main_tss.bcf" 1686686000 107005 ee19f8c4c9c9f4ba4d5814c19122f622 "pdflatex"
+["biber main_tss"] 0 "main_tss.bcf" "main_tss.bbl" "main_tss" 1686689538 -1
+  "main_tss.bcf" 1686689538 107005 ee19f8c4c9c9f4ba4d5814c19122f622 "pdflatex"
   (generated)
   "main_tss.bbl"
   "main_tss.blg"
   (rewritten before read)
-["pdflatex"] 1686685994 "c:/Users/Ms Laptop/Documents/GitHub/Textsatzsysteme/main_tss.tex" "main_tss.pdf" "main_tss" 1686686003 2
-  "C:/Users/Ms Laptop/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1686685817 82507 a9eef8696c92627b87e9975edea03b2a ""
+["pdflatex"] 1686689530 "c:/Users/Ms Laptop/Documents/GitHub/Textsatzsysteme/main_tss.tex" "main_tss.pdf" "main_tss" 1686689538 0
+  "C:/Users/Ms Laptop/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1686688053 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Ms Laptop/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1679988562 23178298 bb0218f6cd98cb202bdeb636ed15ae04 ""
   "C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256933040 2375 baa924870cfb487815765f9094cf3728 ""
   "C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc" 1256933040 2327 9d6df24f9c4f7368395224341a95523a ""
@@ -156,6 +156,7 @@
   "C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "abstract.tex" 1686643996 1285 e50b39337ca43064698766284cd934ec ""
   "bilder/Distanzen.svg" 1686683214 5005 4430fdb0579d3bc56f35b824af606584 ""
+  "bilder/reinforcementlearning.svg" 1686683214 7836 d734fcbb98f9dab533ff65d266a9bc17 ""
   "bilder/thi.png.png" 1681735972 281069 81900fdd0c612cfa479eb71932e2b3f1 ""
   "c:/Users/Ms Laptop/Documents/GitHub/Textsatzsysteme/main_tss.tex" 1686685803 3637 71141c28429de4888789b64d1bcf1526 ""
   "kapitel/Allgemeine Möglichkeiten der Optimierung.tex" 1681989629 0 d41d8cd98f00b204e9800998ecf8427e ""
@@ -174,16 +175,20 @@
   "kapitel/Perspektiven.tex" 1681989977 0 d41d8cd98f00b204e9800998ecf8427e ""
   "kapitel/Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex" 1681990031 0 d41d8cd98f00b204e9800998ecf8427e ""
   "kapitel/Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen.tex" 1686644994 3003 f59ad819f7f2ca7a02455c0b90cc9bcf ""
-  "kapitel/Typen_ML/reinforcementlearning.tex" 1686660170 760 957776a83a90ccd5a6f2a97769020513 ""
+  "kapitel/Typen_ML/reinforcementlearning.tex" 1686689466 992 249d2e7c8d5a86ff808cc9cf357ef7d9 ""
   "kapitel/Typen_ML/semisupervisedlearning.tex" 1686659710 553 a2700ec1b7f10c3605442267bad72a5f ""
   "kapitel/Typen_ML/supervisedlearning.tex" 1686659710 1650 e406c277e6c3a1945a0e4e7ef97dd517 ""
-  "kapitel/Typen_ML/unsupervisedlearning.tex" 1686685803 1764 ac4a1f51d64e9e72d5806d1d5c64db69 ""
+  "kapitel/Typen_ML/unsupervisedlearning.tex" 1686689466 1785 20d3adead77b60e00ae59163c50aa396 ""
   "kapitel/typen von Machine Machine Learning.tex" 1686668020 449 58802621b895015f37fabd24a68af567 ""
   "kapitel/Überblick von Energieversorgungssystemen.tex" 1686643144 564 20a6fc59e669997500ba5eb87b286d03 ""
-  "main_tss.aux" 1686686000 3280 523f60f1aca958d1cdf214b99e707ddc "pdflatex"
+  "main_tss.aux" 1686689538 3395 c9776cde44e4e08ac2dfa8f08eb4e965 "pdflatex"
   "main_tss.bbl" 1686666234 3951 0b40fb03edc59f48731bca52ca23ba91 "biber main_tss"
-  "main_tss.run.xml" 1686686001 2397 3706aa1024d48d743d7326242ec8ce1d "pdflatex"
+  "main_tss.run.xml" 1686689538 2397 4152e9b981242c4c513b489d857e682a "pdflatex"
   "main_tss.tex" 1686685803 3637 71141c28429de4888789b64d1bcf1526 ""
+  "svg-inkscape/Distanzen_svg-tex.pdf" 1686688065 3907 1a16b83380c9e70a9e67fb88a51ec349 ""
+  "svg-inkscape/Distanzen_svg-tex.pdf_tex" 1686688065 2753 322950535279d6a062f1d093385e048b ""
+  "svg-inkscape/reinforcementlearning_svg-tex.pdf" 1686689513 7276 97aa431c10bbb042a8cf18025e70fcc7 ""
+  "svg-inkscape/reinforcementlearning_svg-tex.pdf_tex" 1686689513 3438 3d940471cf29970d95c8e6c003adb4ec ""
   (generated)
   "main_tss.aux"
   "main_tss.bcf"
