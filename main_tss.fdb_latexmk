@@ -1,11 +1,12 @@
 # Fdb version 4
-["biber main_tss"] 0 "main_tss.bcf" "main_tss.bbl" "main_tss" 1686645000 -1
-  "main_tss.bcf" 1686644999 106548 43dec783587693bd0386363f043f86e5 "pdflatex"
+["biber main_tss"] 1686645644 "main_tss.bcf" "main_tss.bbl" "main_tss" 1686650213 0
+  "main_tss.bcf" 1686650212 106616 c1766d134ac2082f13ee675383f18512 "pdflatex"
+  "ref.bib" 1686645499 286 fdf203b04e45b732b4b335a99d779b95 ""
   (generated)
   "main_tss.bbl"
   "main_tss.blg"
   (rewritten before read)
-["pdflatex"] 1686644995 "c:/Users/Ms Laptop/Documents/GitHub/Textsatzsysteme/main_tss.tex" "main_tss.pdf" "main_tss" 1686645000 0
+["pdflatex"] 1686650207 "c:/Users/Ms Laptop/Documents/GitHub/Textsatzsysteme/main_tss.tex" "main_tss.pdf" "main_tss" 1686650213 0
   "C:/Users/Ms Laptop/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1686643606 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Ms Laptop/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1679988562 23178298 bb0218f6cd98cb202bdeb636ed15ae04 ""
   "C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256933040 2375 baa924870cfb487815765f9094cf3728 ""
@@ -134,7 +135,7 @@
   "C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "abstract.tex" 1686643996 1285 e50b39337ca43064698766284cd934ec ""
   "bilder/thi.png.png" 1681735972 281069 81900fdd0c612cfa479eb71932e2b3f1 ""
-  "c:/Users/Ms Laptop/Documents/GitHub/Textsatzsysteme/main_tss.tex" 1686644008 4000 6fce1b9bf28754a19639e8e8623b0416 ""
+  "c:/Users/Ms Laptop/Documents/GitHub/Textsatzsysteme/main_tss.tex" 1686645601 3552 d304888ac1e53d4763080b580930cca0 ""
   "kapitel/Allgemeine Möglichkeiten der Optimierung.tex" 1681989629 0 d41d8cd98f00b204e9800998ecf8427e ""
   "kapitel/Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung.tex" 1681989714 0 d41d8cd98f00b204e9800998ecf8427e ""
   "kapitel/EVS/Dezentrale Energieversorgungssysteme.tex" 1686644718 435 50fe6bb83d169a8953968d3927f2433b ""
@@ -153,21 +154,19 @@
   "kapitel/Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen.tex" 1686644994 3003 f59ad819f7f2ca7a02455c0b90cc9bcf ""
   "kapitel/Typen_ML/reinforcementlearning.tex" 1686644571 356 24289ec37ddf3f50228bf44f26a20775 ""
   "kapitel/Typen_ML/semisupervisedlearning.tex" 1686644612 280 1252393bd7ef180e9809e2fca86bd03e ""
-  "kapitel/Typen_ML/supervisedlearning.tex" 1686644649 309 37f9d4249593fbdf38aa259c0de3223c ""
+  "kapitel/Typen_ML/supervisedlearning.tex" 1686650204 571 e981549d0e7e76effde9fdfb354048d5 ""
   "kapitel/Typen_ML/transferlearning.tex" 1686644648 314 d029586a23eb1f17468982ea6c8b0786 ""
   "kapitel/Typen_ML/unsupervisedlearning.tex" 1686644666 306 c6a31b02acea5ff6141d895b1f0b680e ""
   "kapitel/typen von Machine Machine Learning.tex" 1686644337 545 0a9f276a41472f880c01b68e95d77bc8 ""
   "kapitel/Überblick von Energieversorgungssystemen.tex" 1686643144 564 20a6fc59e669997500ba5eb87b286d03 ""
-  "main_tss.aux" 1686644999 2494 5d92d9866ee036488d2b17c8d5cee3e5 "pdflatex"
-  "main_tss.bbl" 1681990642 486 ee04f40f768daeed26442158e95aba61 "biber main_tss"
-  "main_tss.run.xml" 1686644999 2407 7df6206b8753c0a42aeaee53da5b6a38 "pdflatex"
-  "main_tss.tex" 1686644008 4000 6fce1b9bf28754a19639e8e8623b0416 ""
-  "main_tss.toc" 1686644999 1564 8980cf56be1528c2a58e4d74786b1772 "pdflatex"
+  "main_tss.aux" 1686650212 2581 57380b74f22ebf6bd0d4a6a635f4325a "pdflatex"
+  "main_tss.bbl" 1686645651 1739 c32a529f64747c7d96758d028376bbca "biber main_tss"
+  "main_tss.run.xml" 1686650212 2397 4152e9b981242c4c513b489d857e682a "pdflatex"
+  "main_tss.tex" 1686645601 3552 d304888ac1e53d4763080b580930cca0 ""
   (generated)
   "main_tss.aux"
   "main_tss.bcf"
   "main_tss.log"
   "main_tss.pdf"
   "main_tss.run.xml"
-  "main_tss.toc"
   (rewritten before read)

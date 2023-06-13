@@ -19,7 +19,7 @@
     style=numeric-verb,
     sorting=none % numeric-verb, numeric-comb
 ]{biblatex}
-\addbibresource{ref/ref_liste.bib}
+\addbibresource{ref.bib}
 
 %Schriftanpassungen
 \renewcommand{\familydefault}{\sfdefault} %serifenlose Schrift
@@ -47,29 +47,14 @@
 
 \begin{document}
 	\ohead{\includegraphics[height=45pt]{bilder/thi.png.png}}
-	
-	%%%%%%%%% KOPF %%%%%%%%%%%%%%%%%%%%%%%%%%
-	\title{Welche Rolle spielen künstliche Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen?}
-	\author{Nico Elsner\\
-		Studiengang: Robotik}
-	\date{\today}
+
 	\maketitle
 
-	% Seitenzahl ausblenden bis nach Inhaltsverzeichnis
-	\clearpage
-	\begingroup
-	  \pagestyle{empty}
-	  \tableofcontents 
-	\clearpage
-	\endgroup
-	
-	\thispagestyle{empty}
 	\begin{abstract}
 		\input{abstract.tex}
 	\end{abstract}
 	%% Einleitung
 	\section{Einleitung}
-	\setcounter{page}{1}
 	\subsection{Hintergrund und Motivation des Themas}
 	\input{kapitel/Hintergrund und Motivation des Themas.tex}
 	%\section{Zielsetzung und Fragestellung der Arbeit}

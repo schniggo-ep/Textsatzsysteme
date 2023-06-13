@@ -16,5 +16,37 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{matzka2021unuberwachtes}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=6112deb28d240d0b60dd47be4ff562ba}{%
+           family={Matzka},
+           familyi={M\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{6112deb28d240d0b60dd47be4ff562ba}
+      \strng{fullhash}{6112deb28d240d0b60dd47be4ff562ba}
+      \strng{bibnamehash}{6112deb28d240d0b60dd47be4ff562ba}
+      \strng{authorbibnamehash}{6112deb28d240d0b60dd47be4ff562ba}
+      \strng{authornamehash}{6112deb28d240d0b60dd47be4ff562ba}
+      \strng{authorfullhash}{6112deb28d240d0b60dd47be4ff562ba}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Künstliche Intelligenz in den Ingenieurwissenschaften: Maschinelles Lernen verstehen und bewerten}
+      \field{title}{Unüberwachtes Lernen}
+      \field{year}{2021}
+      \field{pages}{171\bibrangedash 197}
+      \range{pages}{27}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

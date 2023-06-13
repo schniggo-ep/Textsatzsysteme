@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.28)  13 JUN 2023 10:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.28)  13 JUN 2023 11:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -715,39 +715,49 @@ Package biblatex Info: ... file 'main_tss.bbl' found.
  (main_tss.bbl)
 Package biblatex Info: Reference section=0 on input line 48.
 Package biblatex Info: Reference segment=0 on input line 48.
- [1{C:/Users/Ms Laptop/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
-
-
-
-]
+ (abstract.tex)
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 62.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 57.
 
-(main_tss.toc
-LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 3.
+(kapitel/Hintergrund und Motivation des Themas.tex) (kapitel/Grundlagen der künstlichen Intelligenz und Machine Learning.tex) (kapitel/typen von Machine Machine Learning.tex
+LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 2.
  (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmss.fd
 File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 3.
+(Font)              <7> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 3.
-)
-\tf@toc=\write5
-\openout5 = `main_tss.toc'.
-
- [2
+(Font)              <5> on input line 2.
+ (kapitel/Typen_ML/unsupervisedlearning.tex) [1{C:/Users/Ms Laptop/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 
-] (abstract.tex) (kapitel/Hintergrund und Motivation des Themas.tex) (kapitel/Grundlagen der künstlichen Intelligenz und Machine Learning.tex) (kapitel/typen von Machine Machine Learning.tex (kapitel/Typen_ML/unsupervisedlearning.tex) (kapitel/Typen_ML/semisupervisedlearning.tex)
+] (kapitel/Typen_ML/semisupervisedlearning.tex)
 Underfull \hbox (badness 2884) in paragraph at lines 4--6
 []\T1/lmss/bx/n/10 Semi-supervised Lear-ning\T1/lmss/m/n/10 : Beim hal-b-�ber-wach-ten
  []
 
-(kapitel/Typen_ML/supervisedlearning.tex) (kapitel/Typen_ML/reinforcementlearning.tex) [1
+(kapitel/Typen_ML/supervisedlearning.tex)
+Underfull \hbox (badness 1603) in paragraph at lines 6--8
+\T1/lmss/m/n/10 Lear-ning ist, dass die Aus-ga-be-wer-te be-kannt sind.
+ []
 
-] (kapitel/Typen_ML/transferlearning.tex)) (kapitel/Optimierung von Energieversorgungssystemen.tex) (kapitel/Überblick von Energieversorgungssystemen.tex (kapitel/EVS/Konventionelle Energieversorgungssysteme.tex)
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
+\T1/lmss/m/n/10 Man un-ter-schei-det hier-bei zwi-schen kon-kre-ten
+ []
+
+
+Underfull \hbox (badness 3579) in paragraph at lines 6--8
+\T1/lmss/m/n/10 Aus-ga-be-wer-ten, so-wie kon-ti-nu-ier-li-che Wer-te. Die-se
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
+
+ []
+
+(kapitel/Typen_ML/reinforcementlearning.tex) (kapitel/Typen_ML/transferlearning.tex)) (kapitel/Optimierung von Energieversorgungssystemen.tex) (kapitel/Überblick von Energieversorgungssystemen.tex (kapitel/EVS/Konventionelle Energieversorgungssysteme.tex)
 Underfull \hbox (badness 3568) in paragraph at lines 2--4
 []\T1/lmss/bx/n/10 Konventionelle Ener-gie-ver-sor-gungs-sys-te-me\T1/lmss/m/n/10 : Kon-
  []
@@ -762,11 +772,11 @@ Underfull \hbox (badness 4193) in paragraph at lines 4--6
 \T1/lmss/m/n/10 se zur Ener-gie-er-zeu-gung. So-la-r-ener-gie wird durch
  []
 
-(kapitel/EVS/Dezentrale Energieversorgungssysteme.tex) (kapitel/EVS/Intelligente Energieversorgungssysteme.tex)) (kapitel/Herausforderungen bei der Optimierung.tex) (kapitel/Allgemeine Möglichkeiten der Optimierung.tex) (kapitel/Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen.tex
-<bilder/thi.png.png, id=22, 554.5518pt x 285.9483pt>
+(kapitel/EVS/Dezentrale Energieversorgungssysteme.tex) (kapitel/EVS/Intelligente Energieversorgungssysteme.tex)) (kapitel/Herausforderungen bei der Optimierung.tex
+<bilder/thi.png.png, id=16, 554.5518pt x 285.9483pt>
 File: bilder/thi.png.png Graphic file (type png)
 <use bilder/thi.png.png>
-Package pdftex.def Info: bilder/thi.png.png  used on input line 8.
+Package pdftex.def Info: bilder/thi.png.png  used on input line 27.
 (pdftex.def)             Requested size: 87.2662pt x 45.0pt.
 
 
@@ -778,12 +788,12 @@ Package scrlayer-scrpage Warning: \headheight to low.
 (scrlayer-scrpage)                e.g., using
 (scrlayer-scrpage)                  \setlength{\headheight}{48.60004pt}
 (scrlayer-scrpage)                in your preamble.
-(scrlayer-scrpage)                I'll also decrease \topmargin on input line 8.
+(scrlayer-scrpage)                I'll also decrease \topmargin on input line 27.
 
 
 Overfull \vbox (36.60004pt too high) has occurred while \output is active []
 
- [2 <./bilder/thi.png.png>]) (kapitel/Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex) (kapitel/Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung.tex) (kapitel/Kritische Betrachtung und Ausblick.tex) (kapitel/Grenzen und Risiken von künstlicher Intelligenz.tex) (kapitel/Perspektiven.tex) (kapitel/Fazit und Ausblick.tex)
+ [2 <./bilder/thi.png.png>]) (kapitel/Allgemeine Möglichkeiten der Optimierung.tex) (kapitel/Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen.tex) (kapitel/Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex) (kapitel/Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung.tex) (kapitel/Kritische Betrachtung und Ausblick.tex) (kapitel/Grenzen und Risiken von künstlicher Intelligenz.tex) (kapitel/Perspektiven.tex) (kapitel/Fazit und Ausblick.tex)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -795,30 +805,27 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 File: bilder/thi.png.png Graphic file (type png)
 <use bilder/thi.png.png>
-Package pdftex.def Info: bilder/thi.png.png  used on input line 115.
+Package pdftex.def Info: bilder/thi.png.png  used on input line 100.
 (pdftex.def)             Requested size: 87.2662pt x 45.0pt.
- [3] (main_tss.aux)
+[3] (main_tss.aux)
 Package logreq Info: Writing requests to 'main_tss.run.xml'.
 \openout1 = `main_tss.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16109 strings out of 476334
- 345486 string characters out of 5786047
+ 16312 strings out of 476334
+ 349575 string characters out of 5786047
  1872382 words of memory out of 5000000
- 36206 multiletter control sequences out of 15000+600000
- 704081 words of font info for 133 fonts, out of 8000000 for 9000
+ 36412 multiletter control sequences out of 15000+600000
+ 706865 words of font info for 134 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  94i,24n,92p,735b,2367s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbo10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso10.pfb>
-Output written on main_tss.pdf (5 pages, 432001 bytes).
+Output written on main_tss.pdf (3 pages, 427087 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
+ 57 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
