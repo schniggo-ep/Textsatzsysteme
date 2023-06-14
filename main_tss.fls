@@ -1004,6 +1004,10 @@ INPUT .\kapitel\EVS\Dezentrale Energieversorgungssysteme.tex
 INPUT kapitel\EVS\Dezentrale Energieversorgungssysteme.tex
 INPUT .\kapitel\EVS\Dezentrale Energieversorgungssysteme.tex
 INPUT kapitel\EVS\Dezentrale Energieversorgungssysteme.tex
+INPUT .\bilder\thi.png.png
+INPUT .\bilder\thi.png.png
+INPUT bilder\thi.png.png
+INPUT .\bilder\thi.png.png
 INPUT .\kapitel\EVS\Intelligente Energieversorgungssysteme.tex
 INPUT kapitel\EVS\Intelligente Energieversorgungssysteme.tex
 INPUT .\kapitel\EVS\Intelligente Energieversorgungssysteme.tex
@@ -1012,10 +1016,6 @@ INPUT .\kapitel\Herausforderungen bei der Optimierung.tex
 INPUT kapitel\Herausforderungen bei der Optimierung.tex
 INPUT .\kapitel\Herausforderungen bei der Optimierung.tex
 INPUT kapitel\Herausforderungen bei der Optimierung.tex
-INPUT .\bilder\thi.png.png
-INPUT .\bilder\thi.png.png
-INPUT bilder\thi.png.png
-INPUT .\bilder\thi.png.png
 INPUT .\kapitel\Allgemeine Möglichkeiten der Optimierung.tex
 INPUT kapitel\Allgemeine Möglichkeiten der Optimierung.tex
 INPUT .\kapitel\Allgemeine Möglichkeiten der Optimierung.tex
@@ -1024,18 +1024,18 @@ INPUT .\kapitel\Rolle von künstlicher Intelligenz und Machine Learning bei der 
 INPUT kapitel\Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen.tex
 INPUT .\kapitel\Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen.tex
 INPUT kapitel\Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen.tex
-INPUT .\kapitel\Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex
-INPUT kapitel\Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex
-INPUT .\kapitel\Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex
-INPUT kapitel\Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex
-INPUT .\kapitel\Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung.tex
-INPUT kapitel\Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung.tex
-INPUT .\kapitel\Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung.tex
-INPUT kapitel\Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung.tex
 INPUT .\bilder\thi.png.png
 INPUT .\bilder\thi.png.png
 INPUT bilder\thi.png.png
 INPUT .\bilder\thi.png.png
+INPUT .\kapitel\Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex
+INPUT kapitel\Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex
+INPUT .\kapitel\Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex
+INPUT kapitel\Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex
+INPUT .\kapitel\Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung.tex
+INPUT kapitel\Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung.tex
+INPUT .\kapitel\Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung.tex
+INPUT kapitel\Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung.tex
 INPUT .\kapitel\Kritische Betrachtung und Ausblick.tex
 INPUT kapitel\Kritische Betrachtung und Ausblick.tex
 INPUT .\kapitel\Kritische Betrachtung und Ausblick.tex

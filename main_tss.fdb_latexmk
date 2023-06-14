@@ -1,12 +1,11 @@
 # Fdb version 4
-["biber main_tss"] 1686776257 "main_tss.bcf" "main_tss.bbl" "main_tss" 1686776284 0
-  "main_tss.bcf" 1686776283 107315 6c71f977be2da901c3f0e59585082657 "pdflatex"
-  "ref.bib" 1686693142 1531 2577942e2a1fb146538bc71cafee3fbc ""
+["biber main_tss"] 0 "main_tss.bcf" "main_tss.bbl" "main_tss" 0 -1
+  "main_tss.bcf" 1686779849 107319 5b86ee6b137bf59feb81f4c18cecb335 "pdflatex"
   (generated)
   "main_tss.bbl"
   "main_tss.blg"
   (rewritten before read)
-["pdflatex"] 1686776277 "c:/Users/Ms Laptop/Documents/GitHub/Textsatzsysteme/main_tss.tex" "main_tss.pdf" "main_tss" 1686776284 0
+["pdflatex"] 1686779844 "c:/Users/Ms Laptop/Documents/GitHub/Textsatzsysteme/main_tss.tex" "main_tss.pdf" "main_tss" 1686779850 2
   "C:/Users/Ms Laptop/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1686688053 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Ms Laptop/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1679988562 23178298 bb0218f6cd98cb202bdeb636ed15ae04 ""
   "C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256933040 2375 baa924870cfb487815765f9094cf3728 ""
@@ -163,7 +162,7 @@
   "kapitel/Allgemeine Möglichkeiten der Optimierung.tex" 1681989629 0 d41d8cd98f00b204e9800998ecf8427e ""
   "kapitel/Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung.tex" 1686734081 3289 247c5b50a6687a76bd12ce843f2e5703 ""
   "kapitel/EVS/Dezentrale Energieversorgungssysteme.tex" 1686644718 435 50fe6bb83d169a8953968d3927f2433b ""
-  "kapitel/EVS/Erneuerbare Energieversorgungssysteme.tex" 1686776245 3108 ba8d8e6cac49a6b6ecf06c6da35d2fff ""
+  "kapitel/EVS/Erneuerbare Energieversorgungssysteme.tex" 1686779833 3820 143d77e909a910686630def18da70def ""
   "kapitel/EVS/Intelligente Energieversorgungssysteme.tex" 1686644740 649 9a21d19b218830712eeccfa775568a1c ""
   "kapitel/EVS/Konventionelle Energieversorgungssysteme.tex" 1686644687 381 9a6c2d82abbfcc67bea31aa3e15edc6b ""
   "kapitel/Fazit und Ausblick.tex" 1681989954 0 d41d8cd98f00b204e9800998ecf8427e ""
@@ -182,9 +181,9 @@
   "kapitel/Typen_ML/unsupervisedlearning.tex" 1686733450 1792 c635bf96b7bad7f11205b46294d935ad ""
   "kapitel/typen von Machine Machine Learning.tex" 1686668020 449 58802621b895015f37fabd24a68af567 ""
   "kapitel/Überblick von Energieversorgungssystemen.tex" 1686643144 564 20a6fc59e669997500ba5eb87b286d03 ""
-  "main_tss.aux" 1686776283 3739 3d27858d55258cb6df74212210f94803 "pdflatex"
-  "main_tss.bbl" 1686776277 7590 2a7441863a35d59ead3b69fd5714b11a "biber main_tss"
-  "main_tss.run.xml" 1686776283 2397 4152e9b981242c4c513b489d857e682a "pdflatex"
+  "main_tss.aux" 1686779849 3794 d2fbf562c3cc38bbc05bcd2cf8a473a6 "pdflatex"
+  "main_tss.bbl" 1686777550 9861 69ff430bade9c7e054fd446922efb71b "biber main_tss"
+  "main_tss.run.xml" 1686779849 2397 3706aa1024d48d743d7326242ec8ce1d "pdflatex"
   "main_tss.tex" 1686685803 3637 71141c28429de4888789b64d1bcf1526 ""
   "svg-inkscape/Distanzen_svg-tex.pdf" 1686688065 3907 1a16b83380c9e70a9e67fb88a51ec349 ""
   "svg-inkscape/Distanzen_svg-tex.pdf_tex" 1686688065 2753 322950535279d6a062f1d093385e048b ""

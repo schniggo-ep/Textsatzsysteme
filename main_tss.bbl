@@ -183,6 +183,63 @@
       \field{pages}{17\bibrangedash 21}
       \range{pages}{5}
     \endentry
+    \entry{aufleger2020stromerzeugung}{article}{}
+      \name{author}{7}{}{%
+        {{hash=aea84d8dcb04af51a08c7ab045af67c7}{%
+           family={Aufleger},
+           familyi={A\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c64b7a4cb80e649bcfc4d4244accfe1b}{%
+           family={Joos},
+           familyi={J\bibinitperiod},
+           given={Franz},
+           giveni={F\bibinitperiod}}}%
+        {{hash=dded96cc28e2f4aa1ead289ac1cde703}{%
+           family={Jorde},
+           familyi={J\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod}}}%
+        {{hash=5b899f6db00e06c641a40cb64a5d27b9}{%
+           family={Kaltschmitt},
+           familyi={K\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=fa5b5c9e41d8e851b3f1a40f0cd379d7}{%
+           family={Rödl},
+           familyi={R\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d86b44d64ee85afa53ccdaf77dffc738}{%
+           family={Schlüter},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=fd8ea9e78df28c7715065925cdcf8bd9}{%
+           family={Sens},
+           familyi={S\bibinitperiod},
+           given={Lucas},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{984f74c399bfca24bd527f04012a177d}
+      \strng{fullhash}{262dd3ea04c09285721b6a817c678701}
+      \strng{bibnamehash}{984f74c399bfca24bd527f04012a177d}
+      \strng{authorbibnamehash}{984f74c399bfca24bd527f04012a177d}
+      \strng{authornamehash}{984f74c399bfca24bd527f04012a177d}
+      \strng{authorfullhash}{262dd3ea04c09285721b6a817c678701}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Erneuerbare Energien: Systemtechnik{·} Wirtschaftlichkeit{·} Umweltaspekte}
+      \field{title}{Stromerzeugung aus Wasserkraft}
+      \field{year}{2020}
+      \field{pages}{583\bibrangedash 683}
+      \range{pages}{101}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

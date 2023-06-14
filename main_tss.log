@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.28)  14 JUN 2023 22:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.28)  14 JUN 2023 23:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -929,11 +929,139 @@ Overfull \vbox (36.60004pt too high) has occurred while \output is active []
 
 pdfTeX warning: pdflatex (file ./svg-inkscape/Distanzen_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >] (kapitel/EVS/Erneuerbare Energieversorgungssysteme.tex
-Underfull \hbox (badness 1400) in paragraph at lines 4--36
+Underfull \hbox (badness 1400) in paragraph at lines 4--39
 \T1/lmss/m/n/10 neu-er-ba-re Ener-gie-ver-sor-gungs-sys-te-me nut-zen na-t�r-li-
  []
 
-) (kapitel/EVS/Dezentrale Energieversorgungssysteme.tex) (kapitel/EVS/Intelligente Energieversorgungssysteme.tex)) (kapitel/Herausforderungen bei der Optimierung.tex
+
+Underfull \hbox (badness 1874) in paragraph at lines 50--51
+[]\T1/lmss/m/n/10 Biomasseanlagen wan-deln or-ga-ni-sche Ma-te-ria-li-en in
+ []
+
+
+kapitel/EVS/Erneuerbare Energieversorgungssysteme.tex:53: Package caption Error: \caption outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53     \caption
+                 {Wirkungsgrade bei der Produktion von Biomasse}
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+kapitel/EVS/Erneuerbare Energieversorgungssysteme.tex:54: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.54     Ozeane &
+                  0.07\% & Wälder & 0.55\%\\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+kapitel/EVS/Erneuerbare Energieversorgungssysteme.tex:54: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.54     Ozeane & 0.07\% &
+                           Wälder & 0.55\%\\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+kapitel/EVS/Erneuerbare Energieversorgungssysteme.tex:54: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.54     Ozeane & 0.07\% & Wälder &
+                                     0.55\%\\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+kapitel/EVS/Erneuerbare Energieversorgungssysteme.tex:55: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.55     Süßwasser &
+                       0.50\% & Mais & 3.2\%\\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+kapitel/EVS/Erneuerbare Energieversorgungssysteme.tex:55: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.55     Süßwasser & 0.50\% &
+                                Mais & 3.2\%\\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+kapitel/EVS/Erneuerbare Energieversorgungssysteme.tex:55: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.55     Süßwasser & 0.50\% & Mais &
+                                       3.2\%\\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+kapitel/EVS/Erneuerbare Energieversorgungssysteme.tex:56: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.56     Kulturlandschaft &
+                            0.30\% & Zuckerrohr & 4.8\%\\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+kapitel/EVS/Erneuerbare Energieversorgungssysteme.tex:56: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.56     Kulturlandschaft & 0.30\% &
+                                     Zuckerrohr & 4.8\%\\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+kapitel/EVS/Erneuerbare Energieversorgungssysteme.tex:56: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.56     Kulturlandschaft & 0.30\% & Zuckerrohr &
+                                                  4.8\%\\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+kapitel/EVS/Erneuerbare Energieversorgungssysteme.tex:57: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.57     Grasland &
+                    0.30\% & Zuckerrüben & 5.4\%
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+kapitel/EVS/Erneuerbare Energieversorgungssysteme.tex:57: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.57     Grasland & 0.30\% &
+                             Zuckerrüben & 5.4\%
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+kapitel/EVS/Erneuerbare Energieversorgungssysteme.tex:57: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.57     Grasland & 0.30\% & Zuckerrüben &
+                                            5.4\%
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+) (kapitel/EVS/Dezentrale Energieversorgungssysteme.tex)
 File: bilder/thi.png.png Graphic file (type png)
 <use bilder/thi.png.png>
 Package pdftex.def Info: bilder/thi.png.png  used on input line 8.
@@ -947,24 +1075,22 @@ pdfTeX warning: pdflatex (file ./svg-inkscape/reinforcementlearning_svg-tex.pdf)
 > <./svg-inkscape/reinforcementlearning_svg-tex.pdf
 
 pdfTeX warning: pdflatex (file ./svg-inkscape/reinforcementlearning_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
->]) (kapitel/Allgemeine Möglichkeiten der Optimierung.tex) (kapitel/Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen.tex) (kapitel/Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex) (kapitel/Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+>] (kapitel/EVS/Intelligente Energieversorgungssysteme.tex)) (kapitel/Herausforderungen bei der Optimierung.tex) (kapitel/Allgemeine Möglichkeiten der Optimierung.tex) (kapitel/Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen.tex
 File: bilder/thi.png.png Graphic file (type png)
 <use bilder/thi.png.png>
-Package pdftex.def Info: bilder/thi.png.png  used on input line 10.
+Package pdftex.def Info: bilder/thi.png.png  used on input line 36.
 (pdftex.def)             Requested size: 87.2662pt x 45.0pt.
- [4]) (kapitel/Kritische Betrachtung und Ausblick.tex) (kapitel/Grenzen und Risiken von künstlicher Intelligenz.tex
+ [4]) (kapitel/Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex) (kapitel/Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung.tex) (kapitel/Kritische Betrachtung und Ausblick.tex) (kapitel/Grenzen und Risiken von künstlicher Intelligenz.tex
+File: bilder/thi.png.png Graphic file (type png)
+<use bilder/thi.png.png>
+Package pdftex.def Info: bilder/thi.png.png  used on input line 27.
+(pdftex.def)             Requested size: 87.2662pt x 45.0pt.
+ [5]
 Underfull \hbox (badness 1484) in paragraph at lines 27--33
 \T1/lmss/m/n/10 Systeme, die mit Ener-gie-ver-sor-gungs-sys-te-men ver-bun-den
  []
 
-)
-File: bilder/thi.png.png Graphic file (type png)
-<use bilder/thi.png.png>
-Package pdftex.def Info: bilder/thi.png.png  used on input line 97.
-(pdftex.def)             Requested size: 87.2662pt x 45.0pt.
- [5] (kapitel/Perspektiven.tex) (kapitel/Fazit und Ausblick.tex)
+) (kapitel/Perspektiven.tex) (kapitel/Fazit und Ausblick.tex)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -983,20 +1109,31 @@ Package pdftex.def Info: bilder/thi.png.png  used on input line 104.
 [6
 
 ] (main_tss.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main_tss
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main_tss.run.xml'.
 \openout1 = `main_tss.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18527 strings out of 476334
- 389714 string characters out of 5786047
- 1874382 words of memory out of 5000000
- 38580 multiletter control sequences out of 15000+600000
+ 18529 strings out of 476334
+ 389792 string characters out of 5786047
+ 1873382 words of memory out of 5000000
+ 38582 multiletter control sequences out of 15000+600000
  708564 words of font info for 142 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 94i,23n,96p,735b,2367s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,24n,94p,735b,2367s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbo10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso8.pfb>
-Output written on main_tss.pdf (6 pages, 506184 bytes).
+Output written on main_tss.pdf (6 pages, 505476 bytes).
 PDF statistics:
  123 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
