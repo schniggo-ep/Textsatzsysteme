@@ -2371,15 +2371,3 @@
     <bcf:citekey order="8" intorder="1">schabbach2014solarthermie</bcf:citekey>
     <bcf:citekey order="9" intorder="1">osterhage2015windkraft</bcf:citekey>
     <bcf:citekey order="10" intorder="1">aufleger2020stromerzeugung</bcf:citekey>
-  </bcf:section>
-  <!-- SORTING TEMPLATES -->
-  <bcf:sortingtemplate name="none">
-    <bcf:sort order="1">
-      <bcf:sortitem order="1">citeorder</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="2">
-      <bcf:sortitem order="1">intciteorder</bcf:sortitem>
-    </bcf:sort>
-  </bcf:sortingtemplate>
-  <!-- DATALISTS -->
-</bcf:controlfile>
