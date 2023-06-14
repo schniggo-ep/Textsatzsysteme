@@ -240,6 +240,30 @@
       \field{pages}{583\bibrangedash 683}
       \range{pages}{101}
     \endentry
+    \entry{quaschning2021regenerative}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f155053434770c7cda898feab9344615}{%
+           family={Quaschning},
+           familyi={Q\bibinitperiod},
+           given={Volker},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Carl Hanser Verlag GmbH Co KG}%
+      }
+      \strng{namehash}{f155053434770c7cda898feab9344615}
+      \strng{fullhash}{f155053434770c7cda898feab9344615}
+      \strng{bibnamehash}{f155053434770c7cda898feab9344615}
+      \strng{authorbibnamehash}{f155053434770c7cda898feab9344615}
+      \strng{authornamehash}{f155053434770c7cda898feab9344615}
+      \strng{authorfullhash}{f155053434770c7cda898feab9344615}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Regenerative Energiesysteme: Technologie--Berechnung--Klimaschutz}
+      \field{year}{2021}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
