@@ -2370,6 +2370,7 @@
     <bcf:citekey order="7" intorder="1">renner2010grundlagen</bcf:citekey>
     <bcf:citekey order="8" intorder="1">schabbach2014solarthermie</bcf:citekey>
     <bcf:citekey order="9" intorder="1">osterhage2015windkraft</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">madhulatha2012overview</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

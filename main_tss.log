@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.28)  13 JUN 2023 23:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.28)  14 JUN 2023 22:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -843,12 +843,12 @@ Package svg Info: Last page of `./svg-inkscape/Distanzen_svg-tex.pdf' is 2 on in
 File: ./svg-inkscape/Distanzen_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/Distanzen_svg-tex.pdf, page 1>
 Package pdftex.def Info: ./svg-inkscape/Distanzen_svg-tex.pdf , page1 used on input line 56.
-(pdftex.def)             Requested size: 206.39685pt x 206.39673pt.
+(pdftex.def)             Requested size: 176.39923pt x 176.38815pt.
 <./svg-inkscape/Distanzen_svg-tex.pdf, id=18, page=2, 822.17662pt x 822.17662pt>
 File: ./svg-inkscape/Distanzen_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/Distanzen_svg-tex.pdf, page 2>
 Package pdftex.def Info: ./svg-inkscape/Distanzen_svg-tex.pdf , page2 used on input line 59.
-(pdftex.def)             Requested size: 206.39685pt x 206.39673pt.
+(pdftex.def)             Requested size: 176.39923pt x 176.38815pt.
 )) (kapitel/Typen_ML/semisupervisedlearning.tex)
 Underfull \hbox (badness 2884) in paragraph at lines 4--6
 []\T1/lmss/bx/n/10 Semi-supervised Lear-ning\T1/lmss/m/n/10 : Beim hal-b-�ber-wach-ten
@@ -881,28 +881,23 @@ Package svg Info: Last page of `./svg-inkscape/reinforcementlearning_svg-tex.pdf
 File: ./svg-inkscape/reinforcementlearning_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/reinforcementlearning_svg-tex.pdf, page 1>
 Package pdftex.def Info: ./svg-inkscape/reinforcementlearning_svg-tex.pdf , page1 used on input line 56.
-(pdftex.def)             Requested size: 258.0pt x 176.4396pt.
+(pdftex.def)             Requested size: 252.0pt x 172.32985pt.
 <./svg-inkscape/reinforcementlearning_svg-tex.pdf, id=21, page=2, 1030.97403pt x 705.07164pt>
 File: ./svg-inkscape/reinforcementlearning_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/reinforcementlearning_svg-tex.pdf, page 2>
 Package pdftex.def Info: ./svg-inkscape/reinforcementlearning_svg-tex.pdf , page2 used on input line 58.
-(pdftex.def)             Requested size: 258.0pt x 176.4396pt.
+(pdftex.def)             Requested size: 252.0pt x 172.32985pt.
 <./svg-inkscape/reinforcementlearning_svg-tex.pdf, id=22, page=3, 1030.97403pt x 705.07164pt>
 File: ./svg-inkscape/reinforcementlearning_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/reinforcementlearning_svg-tex.pdf, page 3>
 Package pdftex.def Info: ./svg-inkscape/reinforcementlearning_svg-tex.pdf , page3 used on input line 60.
-(pdftex.def)             Requested size: 258.0pt x 176.4396pt.
+(pdftex.def)             Requested size: 252.0pt x 172.32985pt.
 <./svg-inkscape/reinforcementlearning_svg-tex.pdf, id=23, page=4, 1030.97403pt x 705.07164pt>
 File: ./svg-inkscape/reinforcementlearning_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/reinforcementlearning_svg-tex.pdf, page 4>
 Package pdftex.def Info: ./svg-inkscape/reinforcementlearning_svg-tex.pdf , page4 used on input line 67.
-(pdftex.def)             Requested size: 258.0pt x 176.4396pt.
-)
-Overfull \hbox (6.0pt too wide) in paragraph at lines 14--15
- [][] 
- []
-
-)) (kapitel/Optimierung von Energieversorgungssystemen.tex) (kapitel/Überblick von Energieversorgungssystemen.tex (kapitel/EVS/Konventionelle Energieversorgungssysteme.tex)
+(pdftex.def)             Requested size: 252.0pt x 172.32985pt.
+))) (kapitel/Optimierung von Energieversorgungssystemen.tex) (kapitel/Überblick von Energieversorgungssystemen.tex (kapitel/EVS/Konventionelle Energieversorgungssysteme.tex)
 Underfull \hbox (badness 3568) in paragraph at lines 2--4
 []\T1/lmss/bx/n/10 Konventionelle Ener-gie-ver-sor-gungs-sys-te-me\T1/lmss/m/n/10 : Kon-
  []
@@ -933,15 +928,15 @@ Overfull \vbox (36.60004pt too high) has occurred while \output is active []
  [2 <./bilder/thi.png.png> <./svg-inkscape/Distanzen_svg-tex.pdf> <./svg-inkscape/Distanzen_svg-tex.pdf
 
 pdfTeX warning: pdflatex (file ./svg-inkscape/Distanzen_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
->] (kapitel/EVS/Erneuerbare Energieversorgungssysteme.tex)
-Underfull \hbox (badness 1400) in paragraph at lines 4--6
+>] (kapitel/EVS/Erneuerbare Energieversorgungssysteme.tex
+Underfull \hbox (badness 1400) in paragraph at lines 4--36
 \T1/lmss/m/n/10 neu-er-ba-re Ener-gie-ver-sor-gungs-sys-te-me nut-zen na-t�r-li-
  []
 
-(kapitel/EVS/Dezentrale Energieversorgungssysteme.tex) (kapitel/EVS/Intelligente Energieversorgungssysteme.tex)) (kapitel/Herausforderungen bei der Optimierung.tex
+) (kapitel/EVS/Dezentrale Energieversorgungssysteme.tex) (kapitel/EVS/Intelligente Energieversorgungssysteme.tex)) (kapitel/Herausforderungen bei der Optimierung.tex
 File: bilder/thi.png.png Graphic file (type png)
 <use bilder/thi.png.png>
-Package pdftex.def Info: bilder/thi.png.png  used on input line 14.
+Package pdftex.def Info: bilder/thi.png.png  used on input line 8.
 (pdftex.def)             Requested size: 87.2662pt x 45.0pt.
  [3 <./svg-inkscape/reinforcementlearning_svg-tex.pdf> <./svg-inkscape/reinforcementlearning_svg-tex.pdf
 
@@ -952,7 +947,24 @@ pdfTeX warning: pdflatex (file ./svg-inkscape/reinforcementlearning_svg-tex.pdf)
 > <./svg-inkscape/reinforcementlearning_svg-tex.pdf
 
 pdfTeX warning: pdflatex (file ./svg-inkscape/reinforcementlearning_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
->]) (kapitel/Allgemeine Möglichkeiten der Optimierung.tex) (kapitel/Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen.tex) (kapitel/Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex) (kapitel/Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung.tex) (kapitel/Kritische Betrachtung und Ausblick.tex) (kapitel/Grenzen und Risiken von künstlicher Intelligenz.tex) (kapitel/Perspektiven.tex) (kapitel/Fazit und Ausblick.tex)
+>]) (kapitel/Allgemeine Möglichkeiten der Optimierung.tex) (kapitel/Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen.tex) (kapitel/Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex) (kapitel/Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: bilder/thi.png.png Graphic file (type png)
+<use bilder/thi.png.png>
+Package pdftex.def Info: bilder/thi.png.png  used on input line 10.
+(pdftex.def)             Requested size: 87.2662pt x 45.0pt.
+ [4]) (kapitel/Kritische Betrachtung und Ausblick.tex) (kapitel/Grenzen und Risiken von künstlicher Intelligenz.tex
+Underfull \hbox (badness 1484) in paragraph at lines 27--33
+\T1/lmss/m/n/10 Systeme, die mit Ener-gie-ver-sor-gungs-sys-te-men ver-bun-den
+ []
+
+)
+File: bilder/thi.png.png Graphic file (type png)
+<use bilder/thi.png.png>
+Package pdftex.def Info: bilder/thi.png.png  used on input line 97.
+(pdftex.def)             Requested size: 87.2662pt x 45.0pt.
+ [5] (kapitel/Perspektiven.tex) (kapitel/Fazit und Ausblick.tex)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -968,7 +980,9 @@ File: bilder/thi.png.png Graphic file (type png)
 <use bilder/thi.png.png>
 Package pdftex.def Info: bilder/thi.png.png  used on input line 104.
 (pdftex.def)             Requested size: 87.2662pt x 45.0pt.
-[4] (main_tss.aux)
+[6
+
+] (main_tss.aux)
 Package logreq Info: Writing requests to 'main_tss.run.xml'.
 \openout1 = `main_tss.run.xml'.
 
@@ -976,15 +990,15 @@ Package logreq Info: Writing requests to 'main_tss.run.xml'.
 Here is how much of TeX's memory you used:
  18527 strings out of 476334
  389714 string characters out of 5786047
- 1873382 words of memory out of 5000000
+ 1874382 words of memory out of 5000000
  38580 multiletter control sequences out of 15000+600000
  708564 words of font info for 142 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 94i,23n,94p,735b,2367s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,23n,96p,735b,2367s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbo10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso8.pfb>
-Output written on main_tss.pdf (4 pages, 496500 bytes).
+Output written on main_tss.pdf (6 pages, 506184 bytes).
 PDF statistics:
- 117 PDF objects out of 1000 (max. 8388607)
+ 123 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  58 words of extra memory for PDF output out of 10000 (max. 10000000)
 

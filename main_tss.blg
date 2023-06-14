@@ -1,15 +1,15 @@
 [1] Config.pm:307> INFO - This is Biber 2.19
-[1] Config.pm:310> INFO - Logfile is 'main_tss.blg'
-[321] biber-MSWIN64:340> INFO - === 
-[407] Biber.pm:419> INFO - Reading 'main_tss.bcf'
-[642] Biber.pm:979> INFO - Found 6 citekeys in bib section 0
-[728] Biber.pm:4419> INFO - Processing section 0
-[801] Biber.pm:4610> INFO - Looking for bibtex file 'ref.bib' for section 0
-[1000] bibtex.pm:1713> INFO - LaTeX decoding ...
-[1027] bibtex.pm:1519> INFO - Found BibTeX data source 'ref.bib'
-[1253] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1253] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1253] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
-[1253] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
-[1270] bbl.pm:660> INFO - Writing 'main_tss.bbl' with encoding 'UTF-8'
-[1278] bbl.pm:763> INFO - Output to main_tss.bbl
+[2] Config.pm:310> INFO - Logfile is 'main_tss.blg'
+[999] biber-MSWIN64:340> INFO - === 
+[1178] Biber.pm:419> INFO - Reading 'main_tss.bcf'
+[1768] Biber.pm:979> INFO - Found 6 citekeys in bib section 0
+[1826] Biber.pm:4419> INFO - Processing section 0
+[1943] Biber.pm:4610> INFO - Looking for bibtex file 'ref.bib' for section 0
+[2202] bibtex.pm:1713> INFO - LaTeX decoding ...
+[2259] bibtex.pm:1519> INFO - Found BibTeX data source 'ref.bib'
+[3042] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[3042] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[3042] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
+[3042] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
+[3080] bbl.pm:660> INFO - Writing 'main_tss.bbl' with encoding 'UTF-8'
+[3129] bbl.pm:763> INFO - Output to main_tss.bbl
