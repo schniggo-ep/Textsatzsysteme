@@ -858,6 +858,10 @@ INPUT .\kapitel\Grundlagen der künstlichen Intelligenz und Machine Learning.tex
 INPUT kapitel\Grundlagen der künstlichen Intelligenz und Machine Learning.tex
 INPUT .\kapitel\Grundlagen der künstlichen Intelligenz und Machine Learning.tex
 INPUT kapitel\Grundlagen der künstlichen Intelligenz und Machine Learning.tex
+INPUT .\kapitel\neuronale netze.tex
+INPUT kapitel\neuronale netze.tex
+INPUT .\kapitel\neuronale netze.tex
+INPUT kapitel\neuronale netze.tex
 INPUT .\kapitel\typen von Machine Machine Learning.tex
 INPUT kapitel\typen von Machine Machine Learning.tex
 INPUT .\kapitel\typen von Machine Machine Learning.tex
@@ -1040,18 +1044,30 @@ INPUT .\kapitel\Rolle von künstlicher Intelligenz und Machine Learning bei der 
 INPUT kapitel\Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen.tex
 INPUT .\kapitel\Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen.tex
 INPUT kapitel\Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen.tex
+INPUT .\kapitel\Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex
+INPUT kapitel\Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex
+INPUT .\kapitel\Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex
+INPUT kapitel\Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex
+INPUT .\kapitel\prognosen_ki_evs\verbrauchsprognose.tex
+INPUT kapitel\prognosen_ki_evs\verbrauchsprognose.tex
+INPUT .\kapitel\prognosen_ki_evs\verbrauchsprognose.tex
+INPUT kapitel\prognosen_ki_evs\verbrauchsprognose.tex
+INPUT .\kapitel\prognosen_ki_evs\erzeugungsprognose.tex
+INPUT kapitel\prognosen_ki_evs\erzeugungsprognose.tex
+INPUT .\kapitel\prognosen_ki_evs\erzeugungsprognose.tex
+INPUT kapitel\prognosen_ki_evs\erzeugungsprognose.tex
 INPUT .\bilder\thi.png.png
 INPUT .\bilder\thi.png.png
 INPUT bilder\thi.png.png
 INPUT .\bilder\thi.png.png
-INPUT .\kapitel\Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex
-INPUT kapitel\Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex
-INPUT .\kapitel\Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex
-INPUT kapitel\Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex
 INPUT .\kapitel\Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung.tex
 INPUT kapitel\Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung.tex
 INPUT .\kapitel\Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung.tex
 INPUT kapitel\Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung.tex
+INPUT .\bilder\thi.png.png
+INPUT .\bilder\thi.png.png
+INPUT bilder\thi.png.png
+INPUT .\bilder\thi.png.png
 INPUT .\kapitel\Kritische Betrachtung und Ausblick.tex
 INPUT kapitel\Kritische Betrachtung und Ausblick.tex
 INPUT .\kapitel\Kritische Betrachtung und Ausblick.tex
@@ -1060,18 +1076,23 @@ INPUT .\kapitel\Grenzen und Risiken von künstlicher Intelligenz.tex
 INPUT kapitel\Grenzen und Risiken von künstlicher Intelligenz.tex
 INPUT .\kapitel\Grenzen und Risiken von künstlicher Intelligenz.tex
 INPUT kapitel\Grenzen und Risiken von künstlicher Intelligenz.tex
+INPUT .\kapitel\Perspektiven.tex
+INPUT kapitel\Perspektiven.tex
+INPUT .\kapitel\Perspektiven.tex
+INPUT kapitel\Perspektiven.tex
+INPUT .\kapitel\Fazit und Ausblick.tex
+INPUT kapitel\Fazit und Ausblick.tex
+INPUT .\kapitel\Fazit und Ausblick.tex
+INPUT kapitel\Fazit und Ausblick.tex
 INPUT .\bilder\thi.png.png
 INPUT .\bilder\thi.png.png
 INPUT bilder\thi.png.png
 INPUT .\bilder\thi.png.png
-INPUT .\kapitel\Perspektiven.tex
-INPUT kapitel\Perspektiven.tex
-INPUT .\kapitel\Perspektiven.tex
-INPUT kapitel\Perspektiven.tex
-INPUT .\kapitel\Fazit und Ausblick.tex
-INPUT kapitel\Fazit und Ausblick.tex
-INPUT .\kapitel\Fazit und Ausblick.tex
-INPUT kapitel\Fazit und Ausblick.tex
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\lm\ts1lmss.fd
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\lm\ts1lmss.fd
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\lm\ts1lmss.fd
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\lm\ts1lmss.fd
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ts1-lmsso10.tfm
 INPUT .\bilder\thi.png.png
 INPUT .\bilder\thi.png.png
 INPUT bilder\thi.png.png
@@ -1079,6 +1100,7 @@ INPUT .\bilder\thi.png.png
 INPUT main_tss.aux
 INPUT main_tss.run.xml
 OUTPUT main_tss.run.xml
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ts1.enc
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ec.enc
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-rm.enc
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb

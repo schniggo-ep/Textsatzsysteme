@@ -1,0 +1,16 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {I}Einleitung}{1}{}%
+\contentsline {subsection}{\numberline {\mbox {I-A}}Hintergrund und Motivation des Themas}{1}{}%
+\contentsline {section}{\numberline {II}Grundlagen der künstlichen Intelligenz und Machine Learning}{1}{}%
+\contentsline {subsection}{\numberline {\mbox {II-A}}Typen von Machine Learning Algorithmen}{1}{}%
+\contentsline {section}{\numberline {III}Optimierung von Energieversorgungssystemen}{3}{}%
+\contentsline {subsection}{\numberline {\mbox {III-A}}Überblick über Energieversorgungssystemen}{3}{}%
+\contentsline {subsection}{\numberline {\mbox {III-B}}Herausforderungen bei der Optimierung}{4}{}%
+\contentsline {subsection}{\numberline {\mbox {III-C}}Allgemeine Möglichkeiten der Optimierung}{4}{}%
+\contentsline {section}{\numberline {IV}Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen}{4}{}%
+\contentsline {subsection}{\numberline {\mbox {IV-A}}Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning}{5}{}%
+\contentsline {subsection}{\numberline {\mbox {IV-B}}Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung}{5}{}%
+\contentsline {section}{\numberline {V}Kritische Betrachtung und Ausblick}{5}{}%
+\contentsline {subsection}{\numberline {\mbox {V-A}}Grenzen und Risiken von künstlicher Intelligenz}{5}{}%
+\contentsline {subsection}{\numberline {\mbox {V-B}}Perspektiven}{6}{}%
+\contentsline {section}{\numberline {VI}Fazit und Ausblick}{6}{}%

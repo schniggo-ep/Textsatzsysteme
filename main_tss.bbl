@@ -264,6 +264,83 @@
       \field{title}{Regenerative Energiesysteme: Technologie--Berechnung--Klimaschutz}
       \field{year}{2021}
     \endentry
+    \entry{lund2012electricity}{article}{}
+      \name{author}{5}{}{%
+        {{hash=22264542e6969068437e7a5e87f9fe7b}{%
+           family={Lund},
+           familyi={L\bibinitperiod},
+           given={Henrik},
+           giveni={H\bibinitperiod}}}%
+        {{hash=1098a9d2e61effb5b50ce24d3788f5e9}{%
+           family={Andersen},
+           familyi={A\bibinitperiod},
+           given={Anders\bibnamedelima N},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=61061b301621e153291be62c0db20f49}{%
+           family={{Ø}stergaard},
+           familyi={Ø\bibinitperiod},
+           given={Poul\bibnamedelima Alberg},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=1e92751740086eb10556d84acd0a95b2}{%
+           family={Mathiesen},
+           familyi={M\bibinitperiod},
+           given={Brian\bibnamedelima Vad},
+           giveni={B\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=8766c788f0c3293aaa6198d893c8c130}{%
+           family={Connolly},
+           familyi={C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{b1ba6b0cfbb93beabab3b5019f23648d}
+      \strng{fullhash}{e61022b37b3f7db68817e833421d4897}
+      \strng{bibnamehash}{b1ba6b0cfbb93beabab3b5019f23648d}
+      \strng{authorbibnamehash}{b1ba6b0cfbb93beabab3b5019f23648d}
+      \strng{authornamehash}{b1ba6b0cfbb93beabab3b5019f23648d}
+      \strng{authorfullhash}{e61022b37b3f7db68817e833421d4897}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy}
+      \field{number}{1}
+      \field{title}{From electricity smart grids to smart energy systems--a market operation based approach and understanding}
+      \field{volume}{42}
+      \field{year}{2012}
+      \field{pages}{96\bibrangedash 102}
+      \range{pages}{7}
+    \endentry
+    \entry{deppekunstliche}{article}{}
+      \name{author}{2}{}{%
+        {{hash=168d56fd7a8b3dbd3ae21a73547b49e6}{%
+           family={Deppe},
+           familyi={D\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=91330c660e1541b1fa7824e4cd7dfd7e}{%
+           family={Kurrat},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{f9c5b1b1822db6674385a487220b14b0}
+      \strng{fullhash}{f9c5b1b1822db6674385a487220b14b0}
+      \strng{bibnamehash}{f9c5b1b1822db6674385a487220b14b0}
+      \strng{authorbibnamehash}{f9c5b1b1822db6674385a487220b14b0}
+      \strng{authornamehash}{f9c5b1b1822db6674385a487220b14b0}
+      \strng{authorfullhash}{f9c5b1b1822db6674385a487220b14b0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Theorie und Anwendung lernender Algorithmen in den Ingenieurs-und Naturwissenschaften an der TU Braunschweig}
+      \field{title}{Künstliche Intelligenz in der Energieversorgung--Anwendung und Grenzen--}
+      \field{pages}{54}
+      \range{pages}{1}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

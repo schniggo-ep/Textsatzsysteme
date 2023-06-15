@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.28)  15 JUN 2023 00:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.28)  15 JUN 2023 10:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -817,7 +817,7 @@ Package biblatex Info: Reference segment=0 on input line 52.
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10> not available
 (Font)              Font shape `T1/lmr/m/sc' tried instead on input line 61.
 
-(kapitel/Hintergrund und Motivation des Themas.tex) (kapitel/Grundlagen der künstlichen Intelligenz und Machine Learning.tex) (kapitel/typen von Machine Machine Learning.tex
+(kapitel/Hintergrund und Motivation des Themas.tex) (kapitel/Grundlagen der künstlichen Intelligenz und Machine Learning.tex) (kapitel/neuronale netze.tex) (kapitel/typen von Machine Machine Learning.tex
 LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 2.
  (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmss.fd
 File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -956,21 +956,51 @@ pdfTeX warning: pdflatex (file ./svg-inkscape/reinforcementlearning_svg-tex.pdf)
 > <./svg-inkscape/reinforcementlearning_svg-tex.pdf
 
 pdfTeX warning: pdflatex (file ./svg-inkscape/reinforcementlearning_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
->] (kapitel/EVS/Intelligente Energieversorgungssysteme.tex)) (kapitel/Herausforderungen bei der Optimierung.tex) (kapitel/Allgemeine Möglichkeiten der Optimierung.tex) (kapitel/Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen.tex
+>] (kapitel/EVS/Intelligente Energieversorgungssysteme.tex)) (kapitel/Herausforderungen bei der Optimierung.tex) (kapitel/Allgemeine Möglichkeiten der Optimierung.tex) (kapitel/Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen.tex) (kapitel/Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex (kapitel/prognosen_ki_evs/verbrauchsprognose.tex) (kapitel/prognosen_ki_evs/erzeugungsprognose.tex)
 File: bilder/thi.png.png Graphic file (type png)
 <use bilder/thi.png.png>
-Package pdftex.def Info: bilder/thi.png.png  used on input line 41.
+Package pdftex.def Info: bilder/thi.png.png  used on input line 19.
 (pdftex.def)             Requested size: 87.2662pt x 45.0pt.
- [4]) (kapitel/Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex) (kapitel/Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung.tex) (kapitel/Kritische Betrachtung und Ausblick.tex) (kapitel/Grenzen und Risiken von künstlicher Intelligenz.tex
+ [4]) (kapitel/Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+File: bilder/thi.png.png Graphic file (type png)
+<use bilder/thi.png.png>
+Package pdftex.def Info: bilder/thi.png.png  used on input line 91.
+(pdftex.def)             Requested size: 87.2662pt x 45.0pt.
+ [5] (kapitel/Kritische Betrachtung und Ausblick.tex) (kapitel/Grenzen und Risiken von künstlicher Intelligenz.tex
 Underfull \hbox (badness 1484) in paragraph at lines 27--33
 \T1/lmss/m/n/10 Systeme, die mit Ener-gie-ver-sor-gungs-sys-te-men ver-bun-den
  []
 
+) (kapitel/Perspektiven.tex) (kapitel/Fazit und Ausblick.tex)
 File: bilder/thi.png.png Graphic file (type png)
 <use bilder/thi.png.png>
-Package pdftex.def Info: bilder/thi.png.png  used on input line 33.
+Package pdftex.def Info: bilder/thi.png.png  used on input line 104.
 (pdftex.def)             Requested size: 87.2662pt x 45.0pt.
-[5]) (kapitel/Perspektiven.tex) (kapitel/Fazit und Ausblick.tex)
+ [6]
+LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 104.
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmss.fd
+File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `TS1/lmss/m/it' in size <10> not available
+(Font)              Font shape `TS1/lmss/m/sl' tried instead on input line 104.
+
+Underfull \hbox (badness 1715) in paragraph at lines 105--105
+[]\T1/lmss/m/n/10 Markus Auf-le-ger u.a. ``Stromer-zeu-gung aus Was-
+ []
+
+
+Underfull \hbox (badness 7030) in paragraph at lines 105--105
+[]\T1/lmss/m/n/10 Volker Quasch-ning. \T1/lmss/m/sl/10 Re-ge-ne-ra-ti-ve Ener-gie-sys-te-me:
+ []
+
+
+Underfull \hbox (badness 5475) in paragraph at lines 105--105
+\T1/lmss/m/sl/10 Technologie--Berechnung--Klimaschutz\T1/lmss/m/n/10 . Carl Han-ser
+ []
+
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -984,9 +1014,9 @@ Before submitting the final camera ready copy, remember to:
 
 File: bilder/thi.png.png Graphic file (type png)
 <use bilder/thi.png.png>
-Package pdftex.def Info: bilder/thi.png.png  used on input line 104.
+Package pdftex.def Info: bilder/thi.png.png  used on input line 105.
 (pdftex.def)             Requested size: 87.2662pt x 45.0pt.
-[6
+[7
 
 ] (main_tss.aux)
 Package logreq Info: Writing requests to 'main_tss.run.xml'.
@@ -994,17 +1024,17 @@ Package logreq Info: Writing requests to 'main_tss.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18553 strings out of 476334
- 390134 string characters out of 5786047
+ 18623 strings out of 476334
+ 392816 string characters out of 5786047
  1875382 words of memory out of 5000000
- 38601 multiletter control sequences out of 15000+600000
- 727524 words of font info for 158 fonts, out of 8000000 for 9000
+ 38656 multiletter control sequences out of 15000+600000
+ 727939 words of font info for 159 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 94i,23n,94p,735b,2367s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}<C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbo10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso8.pfb>
-Output written on main_tss.pdf (6 pages, 532033 bytes).
+ 94i,23n,98p,735b,2367s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}<C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbo10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso8.pfb>
+Output written on main_tss.pdf (7 pages, 542054 bytes).
 PDF statistics:
- 131 PDF objects out of 1000 (max. 8388607)
+ 140 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  58 words of extra memory for PDF output out of 10000 (max. 10000000)
 

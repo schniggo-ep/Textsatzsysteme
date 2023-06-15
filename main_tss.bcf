@@ -2372,6 +2372,9 @@
     <bcf:citekey order="9" intorder="1">osterhage2015windkraft</bcf:citekey>
     <bcf:citekey order="10" intorder="1">aufleger2020stromerzeugung</bcf:citekey>
     <bcf:citekey order="11" intorder="1">quaschning2021regenerative</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">lund2012electricity</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">deppekunstliche</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">deppekunstliche</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
@@ -2383,4 +2386,13 @@
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
+  <bcf:datalist section="0"
+                name="none/global//global/global"
+                type="entry"
+                sortingtemplatename="none"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
 </bcf:controlfile>
