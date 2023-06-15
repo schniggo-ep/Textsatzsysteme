@@ -1,6 +1,6 @@
 %% Creator: Inkscape 1.0.2-2 (e86c870879, 2021-01-15), www.inkscape.org
 %% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
-%% Accompanies image file 'Distanzen_svg-tex.pdf' (pdf, eps, ps)
+%% Accompanies image file 'neuronalenetze_prinzip_svg-tex.pdf' (pdf, eps, ps)
 %%
 %% To include the image in your LaTeX document, write
 %%   \input{<filename>.pdf_tex}
@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{819.10500157bp}%
+    \setlength{\unitlength}{1920.43749762bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,14 +50,17 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1)%
+  \begin{picture}(1,0.3286686)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
-    \put(0,0){\includegraphics[width=\unitlength,page=1]{Distanzen_svg-tex.pdf}}%
-    \put(0.01722948,0.59803688){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{X}\end{tabular}}}}%
-    \put(0.92250993,0.87730511){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Y}\end{tabular}}}}%
-    \put(0,0){\includegraphics[width=\unitlength,page=2]{Distanzen_svg-tex.pdf}}%
-    \put(0.47165199,0.24002417){\color[rgb]{0,0.69019608,0.31372549}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Euklidische Distanz\end{tabular}}}}%
-    \put(0.47165199,0.17959236){\color[rgb]{0.9372549,0.09803922,0.81568627}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Manhattan Distanz\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{neuronalenetze_prinzip_svg-tex.pdf}}%
+    \put(0.01458326,0.28110457){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Bereitstellen von Informationen\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{neuronalenetze_prinzip_svg-tex.pdf}}%
+    \put(0.08145748,0.19596772){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Festlegung des Grundlayouts des Netzes\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{neuronalenetze_prinzip_svg-tex.pdf}}%
+    \put(0.14733427,0.11083086){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Training mit geeigneten Lernverfahren\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{neuronalenetze_prinzip_svg-tex.pdf}}%
+    \put(0.21420965,0.02608455){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ausgabe als in Vektor kodierter Antwort\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{neuronalenetze_prinzip_svg-tex.pdf}}%
   \end{picture}%
 \endgroup%

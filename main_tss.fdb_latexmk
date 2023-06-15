@@ -1,12 +1,11 @@
 # Fdb version 4
-["biber main_tss"] 1686864201 "main_tss.bcf" "main_tss.bbl" "main_tss" 1686864234 0
-  "main_tss.bcf" 1686864233 108047 49efcc33b40e1978c9338e6f20b4d523 "pdflatex"
-  "ref.bib" 1686864170 3036 0b69740335282f37d7455597be966479 ""
+["biber main_tss"] 0 "main_tss.bcf" "main_tss.bbl" "main_tss" 0 -1
+  "main_tss.bcf" 1686864952 108047 49efcc33b40e1978c9338e6f20b4d523 "pdflatex"
   (generated)
   "main_tss.bbl"
   "main_tss.blg"
   (rewritten before read)
-["pdflatex"] 1686864228 "c:/Users/Ms Laptop/Documents/GitHub/Textsatzsysteme/main_tss.tex" "main_tss.pdf" "main_tss" 1686864234 0
+["pdflatex"] 1686864946 "c:/Users/Ms Laptop/Documents/GitHub/Textsatzsysteme/main_tss.tex" "main_tss.pdf" "main_tss" 1686864954 2
   "C:/Users/Ms Laptop/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1686688053 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Ms Laptop/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1679988562 23178298 bb0218f6cd98cb202bdeb636ed15ae04 ""
   "C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256933040 2375 baa924870cfb487815765f9094cf3728 ""
@@ -165,8 +164,9 @@
   "C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "abstract.tex" 1686643996 1285 e50b39337ca43064698766284cd934ec ""
-  "bilder/Distanzen.svg" 1686683214 5005 4430fdb0579d3bc56f35b824af606584 ""
-  "bilder/reinforcementlearning.svg" 1686683214 7836 d734fcbb98f9dab533ff65d266a9bc17 ""
+  "bilder/Distanzen.svg" 1686864559 5005 f52f01262008682d8643c9f3d5b60c3a ""
+  "bilder/neuronalenetze_prinzip.svg" 1686864559 3178 5fed827b27b7c3f666a1cd2b35d7597d ""
+  "bilder/reinforcementlearning.svg" 1686864558 7820 88582f9e893aaaeca057a223261772c2 ""
   "bilder/thi.png.png" 1681735972 281069 81900fdd0c612cfa479eb71932e2b3f1 ""
   "c:/Users/Ms Laptop/Documents/GitHub/Textsatzsysteme/main_tss.tex" 1686860347 3674 76348304db37ba0b27a1ced0abe89913 ""
   "kapitel/Allgemeine Möglichkeiten der Optimierung.tex" 1681989629 0 d41d8cd98f00b204e9800998ecf8427e ""
@@ -189,19 +189,19 @@
   "kapitel/Typen_ML/semisupervisedlearning.tex" 1686659710 553 a2700ec1b7f10c3605442267bad72a5f ""
   "kapitel/Typen_ML/supervisedlearning.tex" 1686659710 1650 e406c277e6c3a1945a0e4e7ef97dd517 ""
   "kapitel/Typen_ML/unsupervisedlearning.tex" 1686733450 1792 c635bf96b7bad7f11205b46294d935ad ""
-  "kapitel/neuronale netze.tex" 1686864200 1045 55f43dc17259fd9b5b8e6f7e1fb4bd78 ""
+  "kapitel/neuronale netze.tex" 1686864933 1243 12052f876e2c77ae10cadb19426b7baa ""
   "kapitel/prognosen_ki_evs/erzeugungsprognose.tex" 1686817922 514 53f7fb2f61e667546bbe3b6c8cffca9c ""
   "kapitel/prognosen_ki_evs/verbrauchsprognose.tex" 1686814545 542 f76726dea8605cedf74a533c28d738fa ""
   "kapitel/typen von Machine Machine Learning.tex" 1686668020 449 58802621b895015f37fabd24a68af567 ""
   "kapitel/Überblick von Energieversorgungssystemen.tex" 1686643144 564 20a6fc59e669997500ba5eb87b286d03 ""
-  "main_tss.aux" 1686864233 5351 e9ced61e96b98acf2e0303688d0d59d3 "pdflatex"
-  "main_tss.bbl" 1686864215 15256 27e7a767748bd831c8f1e45c5f8fe427 "biber main_tss"
-  "main_tss.run.xml" 1686864233 2397 4152e9b981242c4c513b489d857e682a "pdflatex"
+  "main_tss.aux" 1686864952 5517 b77117392bb08d7d00ebbbfa8da16b02 "pdflatex"
+  "main_tss.bbl" 1686864721 15256 27e7a767748bd831c8f1e45c5f8fe427 "biber main_tss"
+  "main_tss.run.xml" 1686864952 2397 3706aa1024d48d743d7326242ec8ce1d "pdflatex"
   "main_tss.tex" 1686860347 3674 76348304db37ba0b27a1ced0abe89913 ""
-  "svg-inkscape/Distanzen_svg-tex.pdf" 1686688065 3907 1a16b83380c9e70a9e67fb88a51ec349 ""
-  "svg-inkscape/Distanzen_svg-tex.pdf_tex" 1686688065 2753 322950535279d6a062f1d093385e048b ""
-  "svg-inkscape/reinforcementlearning_svg-tex.pdf" 1686689513 7276 97aa431c10bbb042a8cf18025e70fcc7 ""
-  "svg-inkscape/reinforcementlearning_svg-tex.pdf_tex" 1686689513 3438 3d940471cf29970d95c8e6c003adb4ec ""
+  "svg-inkscape/Distanzen_svg-tex.pdf" 1686864698 3907 165bbe715f86e7a7ac278d49a39ae5b9 ""
+  "svg-inkscape/Distanzen_svg-tex.pdf_tex" 1686864698 2753 3c7436b172400449560b61e851105e72 ""
+  "svg-inkscape/reinforcementlearning_svg-tex.pdf" 1686864702 7211 b3f2efc854dcda774cf09ae4f5883316 ""
+  "svg-inkscape/reinforcementlearning_svg-tex.pdf_tex" 1686864702 3426 35b51ff4a1663525e7e71f0e1924ff7f ""
   (generated)
   "main_tss.aux"
   "main_tss.bcf"

@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{1027.12226074bp}%
+    \setlength{\unitlength}{908.94500977bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,20 +50,20 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,0.68388888)%
+  \begin{picture}(1,0.77280527)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{reinforcementlearning_svg-tex.pdf}}%
-    \put(0.49072848,0.60444971){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Agent\end{tabular}}}}%
+    \put(0.4807723,0.68303774){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Agent\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{reinforcementlearning_svg-tex.pdf}}%
-    \put(0.42793167,0.04950117){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Umgebung\end{tabular}}}}%
+    \put(0.40981091,0.0559371){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Umgebung\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=3]{reinforcementlearning_svg-tex.pdf}}%
-    \put(0.89695081,0.33427739){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Aktion\end{tabular}}}}%
-    \put(-0.00337288,0.27659195){\color[rgb]{0.32941176,0.50980392,0.20784314}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Belohnung\end{tabular}}}}%
-    \put(0.18069479,0.27659195){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}oder \end{tabular}}}}%
-    \put(-0.00337288,0.22839905){\color[rgb]{1,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Bestrafung \end{tabular}}}}%
-    \put(0.18127895,0.22839905){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}erhalten\end{tabular}}}}%
-    \put(0.00406782,0.44088593){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Strategie anpassen\end{tabular}}}}%
+    \put(0.89413889,0.38103928){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Aktion\end{tabular}}}}%
+    \put(-0.00346491,0.31585381){\color[rgb]{0,0.69019608,0.31372549}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Belohnung\end{tabular}}}}%
+    \put(0.18704991,0.31585381){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}oder \end{tabular}}}}%
+    \put(-0.00346491,0.26552074){\color[rgb]{1,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Bestrafung \end{tabular}}}}%
+    \put(0.18940979,0.26552074){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}erhalten\end{tabular}}}}%
+    \put(0.00513297,0.49408242){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Strategie anpassen\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=4]{reinforcementlearning_svg-tex.pdf}}%
   \end{picture}%
 \endgroup%

@@ -864,6 +864,9 @@ INPUT .\kapitel\neuronale netze.tex
 INPUT kapitel\neuronale netze.tex
 OUTPUT main_tss.pdf
 INPUT C:\Users\Ms Laptop\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT .\bilder\neuronalenetze_prinzip.svg
+INPUT bilder\neuronalenetze_prinzip.svg
+INPUT .\bilder\neuronalenetze_prinzip.svg
 INPUT .\kapitel\typen von Machine Machine Learning.tex
 INPUT kapitel\typen von Machine Machine Learning.tex
 INPUT .\kapitel\typen von Machine Machine Learning.tex
@@ -1004,6 +1007,10 @@ INPUT .\kapitel\EVS\Erneuerbare Energieversorgungssysteme.tex
 INPUT kapitel\EVS\Erneuerbare Energieversorgungssysteme.tex
 INPUT .\kapitel\EVS\Erneuerbare Energieversorgungssysteme.tex
 INPUT kapitel\EVS\Erneuerbare Energieversorgungssysteme.tex
+INPUT .\bilder\thi.png.png
+INPUT .\bilder\thi.png.png
+INPUT bilder\thi.png.png
+INPUT .\bilder\thi.png.png
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmss8.tfm
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmss8.tfm
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
@@ -1020,10 +1027,6 @@ INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmsso8.tfm
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmsso8.tfm
-INPUT .\bilder\thi.png.png
-INPUT .\bilder\thi.png.png
-INPUT bilder\thi.png.png
-INPUT .\bilder\thi.png.png
 INPUT .\kapitel\EVS\Dezentrale Energieversorgungssysteme.tex
 INPUT kapitel\EVS\Dezentrale Energieversorgungssysteme.tex
 INPUT .\kapitel\EVS\Dezentrale Energieversorgungssysteme.tex
@@ -1048,14 +1051,14 @@ INPUT .\kapitel\Potenzial und Vorteile von künstlicher Intelligenz und Machine 
 INPUT kapitel\Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex
 INPUT .\kapitel\Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex
 INPUT kapitel\Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex
-INPUT .\kapitel\prognosen_ki_evs\verbrauchsprognose.tex
-INPUT kapitel\prognosen_ki_evs\verbrauchsprognose.tex
-INPUT .\kapitel\prognosen_ki_evs\verbrauchsprognose.tex
-INPUT kapitel\prognosen_ki_evs\verbrauchsprognose.tex
 INPUT .\bilder\thi.png.png
 INPUT .\bilder\thi.png.png
 INPUT bilder\thi.png.png
 INPUT .\bilder\thi.png.png
+INPUT .\kapitel\prognosen_ki_evs\verbrauchsprognose.tex
+INPUT kapitel\prognosen_ki_evs\verbrauchsprognose.tex
+INPUT .\kapitel\prognosen_ki_evs\verbrauchsprognose.tex
+INPUT kapitel\prognosen_ki_evs\verbrauchsprognose.tex
 INPUT .\kapitel\prognosen_ki_evs\erzeugungsprognose.tex
 INPUT kapitel\prognosen_ki_evs\erzeugungsprognose.tex
 INPUT .\kapitel\prognosen_ki_evs\erzeugungsprognose.tex
