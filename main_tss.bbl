@@ -19,6 +19,30 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{dorn2016programmieren}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d48ac2131bea1bf8f8ede8ae2677c77e}{%
+           family={Dörn},
+           familyi={D\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{d48ac2131bea1bf8f8ede8ae2677c77e}
+      \strng{fullhash}{d48ac2131bea1bf8f8ede8ae2677c77e}
+      \strng{bibnamehash}{d48ac2131bea1bf8f8ede8ae2677c77e}
+      \strng{authorbibnamehash}{d48ac2131bea1bf8f8ede8ae2677c77e}
+      \strng{authornamehash}{d48ac2131bea1bf8f8ede8ae2677c77e}
+      \strng{authorfullhash}{d48ac2131bea1bf8f8ede8ae2677c77e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Programmieren für Ingenieure und Naturwissenschaftler}
+      \field{year}{2016}
+    \endentry
     \entry{lanquillon2019grundzuge}{article}{}
       \name{author}{1}{}{%
         {{hash=d6e4f4e0202d3c530d09c98bd6fc8fc9}{%
@@ -36,8 +60,8 @@
       \strng{authorbibnamehash}{d6e4f4e0202d3c530d09c98bd6fc8fc9}
       \strng{authornamehash}{d6e4f4e0202d3c530d09c98bd6fc8fc9}
       \strng{authorfullhash}{d6e4f4e0202d3c530d09c98bd6fc8fc9}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Blockchain und maschinelles Lernen: Wie das maschinelle Lernen und die Distributed-Ledger-Technologie voneinander profitieren}
@@ -60,8 +84,8 @@
       \strng{authorbibnamehash}{e624cfe94b5a41c05eafd05aec13bb15}
       \strng{authornamehash}{e624cfe94b5a41c05eafd05aec13bb15}
       \strng{authorfullhash}{e624cfe94b5a41c05eafd05aec13bb15}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{arXiv preprint arXiv:1205.1117}
@@ -85,8 +109,8 @@
       \strng{authorbibnamehash}{6112deb28d240d0b60dd47be4ff562ba}
       \strng{authornamehash}{6112deb28d240d0b60dd47be4ff562ba}
       \strng{authorfullhash}{6112deb28d240d0b60dd47be4ff562ba}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Künstliche Intelligenz in den Ingenieurwissenschaften: Maschinelles Lernen verstehen und bewerten}
@@ -112,8 +136,8 @@
       \strng{authorbibnamehash}{73956ce641f10f0f136e46f1736dd612}
       \strng{authornamehash}{73956ce641f10f0f136e46f1736dd612}
       \strng{authorfullhash}{73956ce641f10f0f136e46f1736dd612}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Integratives Umweltmanagement: Systemorientierte Zusammenhänge zwischen Politik, Recht, Management und Technik}
@@ -144,8 +168,8 @@
       \strng{authorbibnamehash}{54c3dac8e871f2ac24e8599845c069ef}
       \strng{authornamehash}{54c3dac8e871f2ac24e8599845c069ef}
       \strng{authorfullhash}{54c3dac8e871f2ac24e8599845c069ef}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Solarthermie}
@@ -173,8 +197,8 @@
       \strng{authorbibnamehash}{6617479bc3d482abc17f55555cecdd0f}
       \strng{authornamehash}{6617479bc3d482abc17f55555cecdd0f}
       \strng{authorfullhash}{6617479bc3d482abc17f55555cecdd0f}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Die Energiewende: Potenziale bei der Energiegewinnung: Eine allgemeinverständliche Einführung}

@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main_tss"] 1686817929 "main_tss.bcf" "main_tss.bbl" "main_tss" 1686819190 0
-  "main_tss.bcf" 1686819189 107970 938c0ef61dafbf83556949a35eb863c3 "pdflatex"
-  "ref.bib" 1686814325 2860 62553a161bfd60fc47d45510e9734a38 ""
+["biber main_tss"] 1686864201 "main_tss.bcf" "main_tss.bbl" "main_tss" 1686864234 0
+  "main_tss.bcf" 1686864233 108047 49efcc33b40e1978c9338e6f20b4d523 "pdflatex"
+  "ref.bib" 1686864170 3036 0b69740335282f37d7455597be966479 ""
   (generated)
   "main_tss.bbl"
   "main_tss.blg"
   (rewritten before read)
-["pdflatex"] 1686819182 "c:/Users/Ms Laptop/Documents/GitHub/Textsatzsysteme/main_tss.tex" "main_tss.pdf" "main_tss" 1686819190 0
+["pdflatex"] 1686864228 "c:/Users/Ms Laptop/Documents/GitHub/Textsatzsysteme/main_tss.tex" "main_tss.pdf" "main_tss" 1686864234 0
   "C:/Users/Ms Laptop/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1686688053 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Ms Laptop/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1679988562 23178298 bb0218f6cd98cb202bdeb636ed15ae04 ""
   "C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256933040 2375 baa924870cfb487815765f9094cf3728 ""
@@ -168,7 +168,7 @@
   "bilder/Distanzen.svg" 1686683214 5005 4430fdb0579d3bc56f35b824af606584 ""
   "bilder/reinforcementlearning.svg" 1686683214 7836 d734fcbb98f9dab533ff65d266a9bc17 ""
   "bilder/thi.png.png" 1681735972 281069 81900fdd0c612cfa479eb71932e2b3f1 ""
-  "c:/Users/Ms Laptop/Documents/GitHub/Textsatzsysteme/main_tss.tex" 1686819168 3678 bcd9b74a7eaea0ac56258f1bfbbfa7e5 ""
+  "c:/Users/Ms Laptop/Documents/GitHub/Textsatzsysteme/main_tss.tex" 1686860347 3674 76348304db37ba0b27a1ced0abe89913 ""
   "kapitel/Allgemeine Möglichkeiten der Optimierung.tex" 1681989629 0 d41d8cd98f00b204e9800998ecf8427e ""
   "kapitel/Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung.tex" 1686734081 3289 247c5b50a6687a76bd12ce843f2e5703 ""
   "kapitel/EVS/Dezentrale Energieversorgungssysteme.tex" 1686644718 435 50fe6bb83d169a8953968d3927f2433b ""
@@ -178,7 +178,7 @@
   "kapitel/Fazit und Ausblick.tex" 1686818233 2423 a7b1c10058831c889e5016914dd40c6f ""
   "kapitel/Grenzen und Risiken von künstlicher Intelligenz.tex" 1686734221 2631 27330e27f0c90225be750b0982efebc7 ""
   "kapitel/Grundlagen der künstlichen Intelligenz und Machine Learning.tex" 1681989041 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "kapitel/Herausforderungen bei der Optimierung.tex" 1686644927 2471 9385547a0979d9bd7b6689cbf14763d8 ""
+  "kapitel/Herausforderungen bei der Optimierung.tex" 1686856201 2471 9385547a0979d9bd7b6689cbf14763d8 ""
   "kapitel/Hintergrund und Motivation des Themas.tex" 1686671517 3359 b0c347c924d00d0d999da03a31150012 ""
   "kapitel/Kritische Betrachtung und Ausblick.tex" 1686734241 0 d41d8cd98f00b204e9800998ecf8427e ""
   "kapitel/Optimierung von Energieversorgungssystemen.tex" 1681989074 0 d41d8cd98f00b204e9800998ecf8427e ""
@@ -189,15 +189,15 @@
   "kapitel/Typen_ML/semisupervisedlearning.tex" 1686659710 553 a2700ec1b7f10c3605442267bad72a5f ""
   "kapitel/Typen_ML/supervisedlearning.tex" 1686659710 1650 e406c277e6c3a1945a0e4e7ef97dd517 ""
   "kapitel/Typen_ML/unsupervisedlearning.tex" 1686733450 1792 c635bf96b7bad7f11205b46294d935ad ""
-  "kapitel/neuronale netze.tex" 1686818660 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "kapitel/neuronale netze.tex" 1686864200 1045 55f43dc17259fd9b5b8e6f7e1fb4bd78 ""
   "kapitel/prognosen_ki_evs/erzeugungsprognose.tex" 1686817922 514 53f7fb2f61e667546bbe3b6c8cffca9c ""
   "kapitel/prognosen_ki_evs/verbrauchsprognose.tex" 1686814545 542 f76726dea8605cedf74a533c28d738fa ""
   "kapitel/typen von Machine Machine Learning.tex" 1686668020 449 58802621b895015f37fabd24a68af567 ""
   "kapitel/Überblick von Energieversorgungssystemen.tex" 1686643144 564 20a6fc59e669997500ba5eb87b286d03 ""
-  "main_tss.aux" 1686819189 5187 d2941525b105968556b2c465289775bc "pdflatex"
-  "main_tss.bbl" 1686817935 14270 3f7e7581aacbd3ce2765a10f65c3527e "biber main_tss"
-  "main_tss.run.xml" 1686819189 2397 4152e9b981242c4c513b489d857e682a "pdflatex"
-  "main_tss.tex" 1686819168 3678 bcd9b74a7eaea0ac56258f1bfbbfa7e5 ""
+  "main_tss.aux" 1686864233 5351 e9ced61e96b98acf2e0303688d0d59d3 "pdflatex"
+  "main_tss.bbl" 1686864215 15256 27e7a767748bd831c8f1e45c5f8fe427 "biber main_tss"
+  "main_tss.run.xml" 1686864233 2397 4152e9b981242c4c513b489d857e682a "pdflatex"
+  "main_tss.tex" 1686860347 3674 76348304db37ba0b27a1ced0abe89913 ""
   "svg-inkscape/Distanzen_svg-tex.pdf" 1686688065 3907 1a16b83380c9e70a9e67fb88a51ec349 ""
   "svg-inkscape/Distanzen_svg-tex.pdf_tex" 1686688065 2753 322950535279d6a062f1d093385e048b ""
   "svg-inkscape/reinforcementlearning_svg-tex.pdf" 1686689513 7276 97aa431c10bbb042a8cf18025e70fcc7 ""
