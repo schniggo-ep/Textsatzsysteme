@@ -1,0 +1,15 @@
+[2] Config.pm:307> INFO - This is Biber 2.19
+[4] Config.pm:310> INFO - Logfile is 'main_tss.blg'
+[1093] biber-MSWIN64:340> INFO - === 
+[1378] Biber.pm:419> INFO - Reading 'main_tss.bcf'
+[2016] Biber.pm:979> INFO - Found 12 citekeys in bib section 0
+[2115] Biber.pm:4419> INFO - Processing section 0
+[2188] Biber.pm:4610> INFO - Looking for bibtex file 'ref.bib' for section 0
+[2354] bibtex.pm:1713> INFO - LaTeX decoding ...
+[2502] bibtex.pm:1519> INFO - Found BibTeX data source 'ref.bib'
+[2896] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2896] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2924] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
+[2924] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
+[2958] bbl.pm:660> INFO - Writing 'main_tss.bbl' with encoding 'UTF-8'
+[2983] bbl.pm:763> INFO - Output to main_tss.bbl

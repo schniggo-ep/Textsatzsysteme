@@ -365,6 +365,33 @@
       \field{pages}{54}
       \range{pages}{1}
     \endentry
+    \entry{djeffal2020kunstliche}{article}{}
+      \name{author}{1}{}{%
+        {{hash=973528ed31c587ef67bb8725e3bd79de}{%
+           family={Djeffal},
+           familyi={D\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{973528ed31c587ef67bb8725e3bd79de}
+      \strng{fullhash}{973528ed31c587ef67bb8725e3bd79de}
+      \strng{bibnamehash}{973528ed31c587ef67bb8725e3bd79de}
+      \strng{authorbibnamehash}{973528ed31c587ef67bb8725e3bd79de}
+      \strng{authornamehash}{973528ed31c587ef67bb8725e3bd79de}
+      \strng{authorfullhash}{973528ed31c587ef67bb8725e3bd79de}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Handbuch Digitalisierung in Staat und Verwaltung}
+      \field{title}{Künstliche Intelligenz}
+      \field{year}{2020}
+      \field{pages}{51\bibrangedash 62}
+      \range{pages}{12}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

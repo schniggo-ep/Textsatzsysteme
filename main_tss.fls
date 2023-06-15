@@ -862,15 +862,29 @@ INPUT .\kapitel\neuronale netze.tex
 INPUT kapitel\neuronale netze.tex
 INPUT .\kapitel\neuronale netze.tex
 INPUT kapitel\neuronale netze.tex
+INPUT .\bilder\neuronalenetze.svg
+INPUT bilder\neuronalenetze.svg
+INPUT .\bilder\neuronalenetze.svg
+INPUT .\svg-inkscape\neuronalenetze_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_svg-tex.pdf_tex
+INPUT svg-inkscape\neuronalenetze_svg-tex.pdf_tex
+INPUT .\svg-inkscape\neuronalenetze_svg-tex.pdf
+INPUT svg-inkscape\neuronalenetze_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_svg-tex.pdf_tex
+INPUT svg-inkscape\neuronalenetze_svg-tex.pdf_tex
 OUTPUT main_tss.pdf
-INPUT C:\Users\Ms Laptop\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT .\bilder\neuronalenetze_prinzip.svg
-INPUT bilder\neuronalenetze_prinzip.svg
-INPUT .\bilder\neuronalenetze_prinzip.svg
-INPUT .\kapitel\typen von Machine Machine Learning.tex
-INPUT kapitel\typen von Machine Machine Learning.tex
-INPUT .\kapitel\typen von Machine Machine Learning.tex
-INPUT kapitel\typen von Machine Machine Learning.tex
+INPUT .\svg-inkscape\neuronalenetze_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_svg-tex.pdf_tex
+INPUT svg-inkscape\neuronalenetze_svg-tex.pdf_tex
+INPUT .\svg-inkscape\neuronalenetze_svg-tex.pdf_tex
+INPUT svg-inkscape\neuronalenetze_svg-tex.pdf_tex
+INPUT .\svg-inkscape\neuronalenetze_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_svg-tex.pdf
+INPUT svg-inkscape\neuronalenetze_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_svg-tex.pdf
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\lm\ot1lmss.fd
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\lm\ot1lmss.fd
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\lm\ot1lmss.fd
@@ -900,6 +914,69 @@ INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lm
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmsso10.tfm
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmsso8.tfm
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmsso8.tfm
+INPUT .\svg-inkscape\neuronalenetze_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_svg-tex.pdf
+INPUT svg-inkscape\neuronalenetze_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_svg-tex.pdf
+INPUT svg-inkscape\neuronalenetze_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_svg-tex.pdf
+INPUT .\bilder\neuronalenetze_prinzip.svg
+INPUT bilder\neuronalenetze_prinzip.svg
+INPUT .\bilder\neuronalenetze_prinzip.svg
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf_tex
+INPUT svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf_tex
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf_tex
+INPUT svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf_tex
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf_tex
+INPUT svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf_tex
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf_tex
+INPUT svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf_tex
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT .\svg-inkscape\neuronalenetze_prinzip_svg-tex.pdf
+INPUT C:\Users\Ms Laptop\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT .\kapitel\typen von Machine Machine Learning.tex
+INPUT kapitel\typen von Machine Machine Learning.tex
+INPUT .\kapitel\typen von Machine Machine Learning.tex
+INPUT kapitel\typen von Machine Machine Learning.tex
 INPUT .\kapitel\Typen_ML\unsupervisedlearning.tex
 INPUT kapitel\Typen_ML\unsupervisedlearning.tex
 INPUT .\kapitel\Typen_ML\unsupervisedlearning.tex
@@ -936,10 +1013,6 @@ INPUT .\kapitel\Typen_ML\semisupervisedlearning.tex
 INPUT kapitel\Typen_ML\semisupervisedlearning.tex
 INPUT .\kapitel\Typen_ML\semisupervisedlearning.tex
 INPUT kapitel\Typen_ML\semisupervisedlearning.tex
-INPUT .\kapitel\Typen_ML\supervisedlearning.tex
-INPUT kapitel\Typen_ML\supervisedlearning.tex
-INPUT .\kapitel\Typen_ML\supervisedlearning.tex
-INPUT kapitel\Typen_ML\supervisedlearning.tex
 INPUT .\bilder\thi.png.png
 INPUT .\bilder\thi.png.png
 INPUT bilder\thi.png.png
@@ -947,6 +1020,10 @@ INPUT .\bilder\thi.png.png
 INPUT .\bilder\thi.png.png
 INPUT .\bilder\thi.png.png
 INPUT .\bilder\thi.png.png
+INPUT .\kapitel\Typen_ML\supervisedlearning.tex
+INPUT kapitel\Typen_ML\supervisedlearning.tex
+INPUT .\kapitel\Typen_ML\supervisedlearning.tex
+INPUT kapitel\Typen_ML\supervisedlearning.tex
 INPUT .\kapitel\Typen_ML\reinforcementlearning.tex
 INPUT kapitel\Typen_ML\reinforcementlearning.tex
 INPUT .\kapitel\Typen_ML\reinforcementlearning.tex
@@ -1039,22 +1116,22 @@ INPUT .\kapitel\Herausforderungen bei der Optimierung.tex
 INPUT kapitel\Herausforderungen bei der Optimierung.tex
 INPUT .\kapitel\Herausforderungen bei der Optimierung.tex
 INPUT kapitel\Herausforderungen bei der Optimierung.tex
-INPUT .\kapitel\Allgemeine Möglichkeiten der Optimierung.tex
-INPUT kapitel\Allgemeine Möglichkeiten der Optimierung.tex
-INPUT .\kapitel\Allgemeine Möglichkeiten der Optimierung.tex
-INPUT kapitel\Allgemeine Möglichkeiten der Optimierung.tex
-INPUT .\kapitel\Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen.tex
-INPUT kapitel\Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen.tex
-INPUT .\kapitel\Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen.tex
-INPUT kapitel\Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen.tex
-INPUT .\kapitel\Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex
-INPUT kapitel\Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex
-INPUT .\kapitel\Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex
-INPUT kapitel\Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex
 INPUT .\bilder\thi.png.png
 INPUT .\bilder\thi.png.png
 INPUT bilder\thi.png.png
 INPUT .\bilder\thi.png.png
+INPUT .\kapitel\Allgemeine Möglichkeiten der Optimierung.tex
+INPUT kapitel\Allgemeine Möglichkeiten der Optimierung.tex
+INPUT .\kapitel\Allgemeine Möglichkeiten der Optimierung.tex
+INPUT kapitel\Allgemeine Möglichkeiten der Optimierung.tex
+INPUT .\kapitel\Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen.tex
+INPUT kapitel\Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen.tex
+INPUT .\kapitel\Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen.tex
+INPUT kapitel\Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen.tex
+INPUT .\kapitel\Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex
+INPUT kapitel\Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex
+INPUT .\kapitel\Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex
+INPUT kapitel\Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex
 INPUT .\kapitel\prognosen_ki_evs\verbrauchsprognose.tex
 INPUT kapitel\prognosen_ki_evs\verbrauchsprognose.tex
 INPUT .\kapitel\prognosen_ki_evs\verbrauchsprognose.tex
