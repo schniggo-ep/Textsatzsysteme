@@ -839,16 +839,20 @@ INPUT .\kapitel\Hintergrund und Motivation des Themas.tex
 INPUT kapitel\Hintergrund und Motivation des Themas.tex
 INPUT .\kapitel\Hintergrund und Motivation des Themas.tex
 INPUT kapitel\Hintergrund und Motivation des Themas.tex
-INPUT .\kapitel\Grundlagen der künstlichen Intelligenz und Machine Learning.tex
-INPUT kapitel\Grundlagen der künstlichen Intelligenz und Machine Learning.tex
-INPUT .\kapitel\Grundlagen der künstlichen Intelligenz und Machine Learning.tex
-INPUT kapitel\Grundlagen der künstlichen Intelligenz und Machine Learning.tex
-INPUT .\kapitel\unterschied_ki_ml.tex
-INPUT kapitel\unterschied_ki_ml.tex
-INPUT .\kapitel\unterschied_ki_ml.tex
-INPUT kapitel\unterschied_ki_ml.tex
+INPUT .\kapitel\zielsetzung der arbeit.tex
+INPUT kapitel\zielsetzung der arbeit.tex
+INPUT .\kapitel\zielsetzung der arbeit.tex
+INPUT kapitel\zielsetzung der arbeit.tex
 OUTPUT main_tss.pdf
 INPUT C:\Users\Ms Laptop\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT .\kapitel\Grundlagen der künstlichen Intelligenz und Machine Learning.tex
+INPUT kapitel\Grundlagen der künstlichen Intelligenz und Machine Learning.tex
+INPUT .\kapitel\Grundlagen der künstlichen Intelligenz und Machine Learning.tex
+INPUT kapitel\Grundlagen der künstlichen Intelligenz und Machine Learning.tex
+INPUT .\kapitel\unterschied_ki_ml.tex
+INPUT kapitel\unterschied_ki_ml.tex
+INPUT .\kapitel\unterschied_ki_ml.tex
+INPUT kapitel\unterschied_ki_ml.tex
 INPUT .\kapitel\neuronale netze.tex
 INPUT kapitel\neuronale netze.tex
 INPUT .\kapitel\neuronale netze.tex
