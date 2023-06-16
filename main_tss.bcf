@@ -2376,7 +2376,9 @@
     <bcf:citekey order="13" intorder="1">lund2012electricity</bcf:citekey>
     <bcf:citekey order="14" intorder="1">deppekunstliche</bcf:citekey>
     <bcf:citekey order="15" intorder="1">deppekunstliche</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">djeffal2020kunstliche</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">dreyer2019kunstliche</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">dreyer2019kunstliche</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">buxmann2021ethische</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

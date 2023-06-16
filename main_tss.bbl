@@ -365,32 +365,71 @@
       \field{pages}{54}
       \range{pages}{1}
     \endentry
-    \entry{djeffal2020kunstliche}{article}{}
-      \name{author}{1}{}{%
-        {{hash=973528ed31c587ef67bb8725e3bd79de}{%
-           family={Djeffal},
+    \entry{dreyer2019kunstliche}{article}{}
+      \name{author}{2}{}{%
+        {{hash=73e170f108b71c8f3e8e4dbf4bdb7fa6}{%
+           family={Dreyer},
            familyi={D\bibinitperiod},
-           given={Christian},
-           giveni={C\bibinitperiod}}}%
+           given={Stephan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6ce3c8c1b17921879a31a510af401265}{%
+           family={Schmees},
+           familyi={S\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Springer}%
+        {Verlag Dr. Otto Schmidt}%
       }
-      \strng{namehash}{973528ed31c587ef67bb8725e3bd79de}
-      \strng{fullhash}{973528ed31c587ef67bb8725e3bd79de}
-      \strng{bibnamehash}{973528ed31c587ef67bb8725e3bd79de}
-      \strng{authorbibnamehash}{973528ed31c587ef67bb8725e3bd79de}
-      \strng{authornamehash}{973528ed31c587ef67bb8725e3bd79de}
-      \strng{authorfullhash}{973528ed31c587ef67bb8725e3bd79de}
+      \strng{namehash}{78d30e9a02248977d60b2e48c965bdb3}
+      \strng{fullhash}{78d30e9a02248977d60b2e48c965bdb3}
+      \strng{bibnamehash}{78d30e9a02248977d60b2e48c965bdb3}
+      \strng{authorbibnamehash}{78d30e9a02248977d60b2e48c965bdb3}
+      \strng{authornamehash}{78d30e9a02248977d60b2e48c965bdb3}
+      \strng{authorfullhash}{78d30e9a02248977d60b2e48c965bdb3}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Handbuch Digitalisierung in Staat und Verwaltung}
-      \field{title}{Künstliche Intelligenz}
-      \field{year}{2020}
-      \field{pages}{51\bibrangedash 62}
-      \range{pages}{12}
+      \field{journaltitle}{Computer und Recht}
+      \field{number}{11}
+      \field{title}{Künstliche Intelligenz als Richter?—Wo keine Trainingsdaten, da kein Richter--Hindernisse, Risiken und Chancen der Automatisierung gerichtlicher Entscheidungen}
+      \field{volume}{35}
+      \field{year}{2019}
+      \field{pages}{758\bibrangedash 764}
+      \range{pages}{7}
+    \endentry
+    \entry{buxmann2021ethische}{article}{}
+      \name{author}{2}{}{%
+        {{hash=606b30364f15e0f927848b35dae48311}{%
+           family={Buxmann},
+           familyi={B\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=64ea836d7b5adfd62dc036020da52310}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Holger},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{478ffd824d373125b67119f8f69b239c}
+      \strng{fullhash}{478ffd824d373125b67119f8f69b239c}
+      \strng{bibnamehash}{478ffd824d373125b67119f8f69b239c}
+      \strng{authorbibnamehash}{478ffd824d373125b67119f8f69b239c}
+      \strng{authornamehash}{478ffd824d373125b67119f8f69b239c}
+      \strng{authorfullhash}{478ffd824d373125b67119f8f69b239c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Künstliche Intelligenz: Mit Algorithmen zum wirtschaftlichen Erfolg}
+      \field{title}{Ethische Aspekte der Künstlichen Intelligenz}
+      \field{year}{2021}
+      \field{pages}{215\bibrangedash 229}
+      \range{pages}{15}
     \endentry
   \enddatalist
 \endrefsection
