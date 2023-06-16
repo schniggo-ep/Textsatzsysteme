@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1686909803 "c:/Users/Ms Laptop/Documents/GitHub/Textsatzsysteme/main_tss.tex" "main_tss.pdf" "main_tss" 1686909806 2
+["pdflatex"] 1686909850 "c:/Users/Ms Laptop/Documents/GitHub/Textsatzsysteme/main_tss.tex" "main_tss.pdf" "main_tss" 1686909854 2
   "C:/Users/Ms Laptop/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1679988562 23178298 bb0218f6cd98cb202bdeb636ed15ae04 ""
   "C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmb7t.tfm" 1136772254 2172 fd0c924230362ff848a33632ed45dc23 ""
   "C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmbi7t.tfm" 1136772254 2228 e564491c42a4540b5ebb710a75ff306c ""
@@ -67,9 +67,9 @@
   "C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/tex/latex/transparent/transparent.sty" 1674492402 1918 c8d1ecb3722721d6f624992cbc042b70 ""
   "C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/tex/latex/trimspaces/trimspaces.sty" 1253169183 1380 971a51b00a14503ddf754cab24c3f209 ""
   "C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "c:/Users/Ms Laptop/Documents/GitHub/Textsatzsysteme/main_tss.tex" 1686909796 3745 bd215c81fdf73b73c094626facc774ce ""
+  "c:/Users/Ms Laptop/Documents/GitHub/Textsatzsysteme/main_tss.tex" 1686909847 3747 716505cf3540fe0f0a179a546a908df7 ""
   "main_tss.aux" 1686909803 34 3985256e7290058c681f74d7a3565a19 ""
-  "main_tss.tex" 1686909796 3745 bd215c81fdf73b73c094626facc774ce ""
+  "main_tss.tex" 1686909847 3747 716505cf3540fe0f0a179a546a908df7 ""
   "scrpage2.sty" 0 -1 0 ""
   (generated)
   "main_tss.log"
