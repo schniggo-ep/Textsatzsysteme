@@ -2361,24 +2361,27 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">ref.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">dorn2016programmieren</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">lanquillon2019grundzuge</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">madhulatha2012overview</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">metaversekunstliche</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">kirste2019einleitung</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">dorn2016programmieren</bcf:citekey>
     <bcf:citekey order="4" intorder="1">lanquillon2019grundzuge</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">lanquillon2019grundzuge</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">matzka2021unuberwachtes</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">madhulatha2012overview</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">lanquillon2019grundzuge</bcf:citekey>
     <bcf:citekey order="7" intorder="1">lanquillon2019grundzuge</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">renner2010grundlagen</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">schabbach2014solarthermie</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">osterhage2015windkraft</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">aufleger2020stromerzeugung</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">quaschning2021regenerative</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">lund2012electricity</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">deppekunstliche</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">deppekunstliche</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">dreyer2019kunstliche</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">dreyer2019kunstliche</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">buxmann2021ethische</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">matzka2021unuberwachtes</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">lanquillon2019grundzuge</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">renner2010grundlagen</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">schabbach2014solarthermie</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">osterhage2015windkraft</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">aufleger2020stromerzeugung</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">quaschning2021regenerative</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">lund2012electricity</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">deppekunstliche</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">deppekunstliche</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">dreyer2019kunstliche</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">dreyer2019kunstliche</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">buxmann2021ethische</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">eichhorst2015zukunft</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

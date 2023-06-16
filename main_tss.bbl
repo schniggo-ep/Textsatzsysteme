@@ -19,6 +19,63 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{metaversekunstliche}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b3d4fa575a7db0046ab4bc7faf34ed3c}{%
+           family={Metaverse},
+           familyi={M\bibinitperiod},
+           given={Das},
+           giveni={D\bibinitperiod}}}%
+        {{hash=ec666f77271537a66f7b6deda5ddbc21}{%
+           family={Mutschler},
+           familyi={M\bibinitperiod},
+           given={Bela},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{e618bc87549ce1031b80fa5f34cfb1ca}
+      \strng{fullhash}{e618bc87549ce1031b80fa5f34cfb1ca}
+      \strng{bibnamehash}{e618bc87549ce1031b80fa5f34cfb1ca}
+      \strng{authorbibnamehash}{e618bc87549ce1031b80fa5f34cfb1ca}
+      \strng{authornamehash}{e618bc87549ce1031b80fa5f34cfb1ca}
+      \strng{authorfullhash}{e618bc87549ce1031b80fa5f34cfb1ca}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Künstliche Intelligenz und Machine Learning in a Nutshell}
+    \endentry
+    \entry{kirste2019einleitung}{article}{}
+      \name{author}{2}{}{%
+        {{hash=bcc818e4b8e59f145cd4ca268720c251}{%
+           family={Kirste},
+           familyi={K\bibinitperiod},
+           given={Moritz},
+           giveni={M\bibinitperiod}}}%
+        {{hash=18bc0acc95c6795e05fe0c6fa3abe51e}{%
+           family={Schürholz},
+           familyi={S\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{f97ede89305faff3bb6cf4e9c9e48b1c}
+      \strng{fullhash}{f97ede89305faff3bb6cf4e9c9e48b1c}
+      \strng{bibnamehash}{f97ede89305faff3bb6cf4e9c9e48b1c}
+      \strng{authorbibnamehash}{f97ede89305faff3bb6cf4e9c9e48b1c}
+      \strng{authornamehash}{f97ede89305faff3bb6cf4e9c9e48b1c}
+      \strng{authorfullhash}{f97ede89305faff3bb6cf4e9c9e48b1c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Künstliche Intelligenz: Technologie| Anwendung| Gesellschaft}
+      \field{title}{Einleitung: Entwicklungswege zur KI}
+      \field{year}{2019}
+      \field{pages}{21\bibrangedash 35}
+      \range{pages}{15}
+    \endentry
     \entry{dorn2016programmieren}{book}{}
       \name{author}{1}{}{%
         {{hash=d48ac2131bea1bf8f8ede8ae2677c77e}{%
@@ -36,8 +93,8 @@
       \strng{authorbibnamehash}{d48ac2131bea1bf8f8ede8ae2677c77e}
       \strng{authornamehash}{d48ac2131bea1bf8f8ede8ae2677c77e}
       \strng{authorfullhash}{d48ac2131bea1bf8f8ede8ae2677c77e}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Programmieren für Ingenieure und Naturwissenschaftler}
@@ -60,8 +117,8 @@
       \strng{authorbibnamehash}{d6e4f4e0202d3c530d09c98bd6fc8fc9}
       \strng{authornamehash}{d6e4f4e0202d3c530d09c98bd6fc8fc9}
       \strng{authorfullhash}{d6e4f4e0202d3c530d09c98bd6fc8fc9}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Blockchain und maschinelles Lernen: Wie das maschinelle Lernen und die Distributed-Ledger-Technologie voneinander profitieren}
@@ -84,8 +141,8 @@
       \strng{authorbibnamehash}{e624cfe94b5a41c05eafd05aec13bb15}
       \strng{authornamehash}{e624cfe94b5a41c05eafd05aec13bb15}
       \strng{authorfullhash}{e624cfe94b5a41c05eafd05aec13bb15}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{arXiv preprint arXiv:1205.1117}
@@ -109,8 +166,8 @@
       \strng{authorbibnamehash}{6112deb28d240d0b60dd47be4ff562ba}
       \strng{authornamehash}{6112deb28d240d0b60dd47be4ff562ba}
       \strng{authorfullhash}{6112deb28d240d0b60dd47be4ff562ba}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Künstliche Intelligenz in den Ingenieurwissenschaften: Maschinelles Lernen verstehen und bewerten}
@@ -136,8 +193,8 @@
       \strng{authorbibnamehash}{73956ce641f10f0f136e46f1736dd612}
       \strng{authornamehash}{73956ce641f10f0f136e46f1736dd612}
       \strng{authorfullhash}{73956ce641f10f0f136e46f1736dd612}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Integratives Umweltmanagement: Systemorientierte Zusammenhänge zwischen Politik, Recht, Management und Technik}
@@ -168,8 +225,8 @@
       \strng{authorbibnamehash}{54c3dac8e871f2ac24e8599845c069ef}
       \strng{authornamehash}{54c3dac8e871f2ac24e8599845c069ef}
       \strng{authorfullhash}{54c3dac8e871f2ac24e8599845c069ef}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Solarthermie}
@@ -421,8 +478,8 @@
       \strng{authorbibnamehash}{478ffd824d373125b67119f8f69b239c}
       \strng{authornamehash}{478ffd824d373125b67119f8f69b239c}
       \strng{authorfullhash}{478ffd824d373125b67119f8f69b239c}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Künstliche Intelligenz: Mit Algorithmen zum wirtschaftlichen Erfolg}
@@ -430,6 +487,33 @@
       \field{year}{2021}
       \field{pages}{215\bibrangedash 229}
       \range{pages}{15}
+    \endentry
+    \entry{eichhorst2015zukunft}{article}{}
+      \name{author}{2}{}{%
+        {{hash=041472a2e2cfbd3328f726719056ec0a}{%
+           family={Eichhorst},
+           familyi={E\bibinitperiod},
+           given={W},
+           giveni={W\bibinitperiod}}}%
+        {{hash=281c775cd2c329a1e958d5a906a2ea7c}{%
+           family={Buhlmann},
+           familyi={B\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{bf64936f2b60fdbff1dfac102d6aba79}
+      \strng{fullhash}{bf64936f2b60fdbff1dfac102d6aba79}
+      \strng{bibnamehash}{bf64936f2b60fdbff1dfac102d6aba79}
+      \strng{authorbibnamehash}{bf64936f2b60fdbff1dfac102d6aba79}
+      \strng{authornamehash}{bf64936f2b60fdbff1dfac102d6aba79}
+      \strng{authorfullhash}{bf64936f2b60fdbff1dfac102d6aba79}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bonn: Forschungsinstitut zur Zukunft der Arbeit (IZA)}
+      \field{title}{Die Zukunft der Arbeit und der Wandel der Arbeitswelt, IZA Standpunkte, No. 77}
+      \field{year}{2015}
     \endentry
   \enddatalist
 \endrefsection

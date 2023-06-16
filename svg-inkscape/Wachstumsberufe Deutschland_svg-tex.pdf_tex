@@ -1,0 +1,74 @@
+%% Creator: Inkscape 1.0.2-2 (e86c870879, 2021-01-15), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'Wachstumsberufe Deutschland_svg-tex.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{1239.75bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.60072595)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{Wachstumsberufe Deutschland_svg-tex.pdf}}%
+    \put(0.2806957,0.02601331){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0\end{tabular}}}}%
+    \put(0.38479734,0.02601331){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}50\end{tabular}}}}%
+    \put(0.48889292,0.02601331){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}100\end{tabular}}}}%
+    \put(0.59931639,0.02601331){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}150\end{tabular}}}}%
+    \put(0.70973382,0.02601331){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}200\end{tabular}}}}%
+    \put(0.82015124,0.02601331){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}250\end{tabular}}}}%
+    \put(0.93057471,0.02601331){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}300\end{tabular}}}}%
+    \put(0.12714459,0.09013914){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Lagerarbeiter\end{tabular}}}}%
+    \put(0.08646703,0.15305505){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Reinigungsberufe\end{tabular}}}}%
+    \put(0.14127042,0.21597096){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Hotelberufe\end{tabular}}}}%
+    \put(0.13859649,0.27888687){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Sozialberufe\end{tabular}}}}%
+    \put(0.05238959,0.34180278){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Wissenschaftsberufe\end{tabular}}}}%
+    \put(0.01884453,0.40532365){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Unternehmensberatung\end{tabular}}}}%
+    \put(0.10817907,0.46823956){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}kreative Berufe\end{tabular}}}}%
+    \put(0.13654567,0.53115547){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Informatiker\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{Wachstumsberufe Deutschland_svg-tex.pdf}}%
+  \end{picture}%
+\endgroup%

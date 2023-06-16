@@ -16,6 +16,15 @@
 \usepackage{amsmath}
 \usepackage{svg}
 \usepackage{caption}
+\captionsetup{
+	figurename=Abb:,
+}
+\usepackage[
+	automark, %automatische Kolumne
+]{scrlayer-scrpage}
+\pagestyle{scrheadings}
+\clearscrheadfoot
+
 
 %Literatur anpassen
 \usepackage[
@@ -27,21 +36,21 @@
 
 %Schriftanpassungen
 \renewcommand{\familydefault}{\sfdefault} %serifenlose Schrift
-\sansmath            %Aktivieren von Paket "Sansmath"
-
-\usepackage[
-	automark, %automatische Kolumne
-]{scrlayer-scrpage}
+\sansmath			%Aktivieren von Paket "Sansmath"
 
 \ofoot[\pagemark]{\pagemark} %Seitenzahl in Fußzeile außen
-\ifoot{\headmark}
-\automark{section}
 
-%wichtige Pakete
 \graphicspath{{bilder/}{}}  %Pfad zu den Bildern. mehrere pfade mit {{}{}{}} 
 
-\title{Welche Rolle spielen künstliche Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen?}
 
+\title{Welche Rolle spielen künstliche Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen?}
+\author{
+	\IEEEauthorblockN{Nico Elsner}
+	\IEEEauthorblockA{
+		\textit{Technische Hochschule Ingolstadt} \\
+		16. Juni 2023 %\Abgabe
+	}
+}
 
 
 \begin{document}
@@ -62,11 +71,13 @@
 \section{Einleitung}
 \subsection{Hintergrund und Motivation des Themas}
 \input{kapitel/Hintergrund und Motivation des Themas.tex}
-%\section{Zielsetzung und Fragestellung der Arbeit}
-%\ldots
+\section{Zielsetzung und Fragestellung der Arbeit}
+
 
 \section{Grundlagen der künstlichen Intelligenz und Machine Learning}
 \input{kapitel/Grundlagen der künstlichen Intelligenz und Machine Learning.tex}
+\subsection{Abgrenzung von Machine Learning zu künstlicher Intelligenz}
+\input{kapitel/unterschied_ki_ml.tex}
 \subsection{Neuronale Netze}
 \input{kapitel/neuronale netze.tex}
 \subsection{Typen von Machine Learning Algorithmen}
