@@ -16,12 +16,14 @@
 \usepackage{amsmath}
 \usepackage{svg}
 \usepackage{caption}
+\usepackage{scrpage2}
+
 
 %Literatur anpassen
 \usepackage[
-    backend=biber,
-    style=numeric-verb,
-    sorting=none % numeric-verb, numeric-comb
+	backend=biber,
+	style=numeric-verb,
+	sorting=none % numeric-verb, numeric-comb
 ]{biblatex}
 \addbibresource{ref.bib}
 
@@ -30,74 +32,76 @@
 \sansmath            %Aktivieren von Paket "Sansmath"
 
 \usepackage[
-    automark, %automatische Kolumne
-    headsepline %Trennlinie in Kopfzeile
+	automark, %automatische Kolumne
 ]{scrlayer-scrpage}
+
 \pagestyle{scrheadings}
 \clearscrheadfoot
 
-\ohead[]{\headmark} %dynamische kolumne in kopfzeile
 \ofoot[\pagemark]{\pagemark} %Seitenzahl in Fußzeile außen
+\ifoot{\headmark}
+\automark{section}
 
 %wichtige Pakete
 \graphicspath{{bilder/}{}}  %Pfad zu den Bildern. mehrere pfade mit {{}{}{}} 
 
 \title{Welche Rolle spielen künstliche Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen?}
 
-\author{{\Large Nico Elsner}}
-
-
 
 
 \begin{document}
-	\ohead{\includegraphics[height=45pt]{bilder/thi.png.png}}
-	\maketitle
-	\begin{abstract}
-		\input{abstract.tex}
-	\end{abstract}
-	%% Einleitung
-	\section{Einleitung}
-	\subsection{Hintergrund und Motivation des Themas}
-	\input{kapitel/Hintergrund und Motivation des Themas.tex}
-	%\section{Zielsetzung und Fragestellung der Arbeit}
-	%\ldots
+%\ohead{\includegraphics[height=45pt]{bilder/thi.png.png}}
 
+\maketitle
+\author{{\Large Nico Elsner}}
 
-	\section{Grundlagen der künstlichen Intelligenz und Machine Learning}
-	\input{kapitel/Grundlagen der künstlichen Intelligenz und Machine Learning.tex}
-	\subsection{Neuronale Netze}
-	\input{kapitel/neuronale netze.tex}
-	\subsection{Typen von Machine Learning Algorithmen}
-	\input{kapitel/typen von Machine Machine Learning.tex}
+\begin{abstract}
+	\input{abstract.tex}
+\end{abstract}
 
-	\section{Optimierung von Energieversorgungssystemen}
-	\input{kapitel/Optimierung von Energieversorgungssystemen.tex}
-	\subsection{Überblick über Energieversorgungssystemen}
-	\input{kapitel/Überblick von Energieversorgungssystemen.tex}
-	\subsection{Herausforderungen bei der Optimierung}
-	\input{kapitel/Herausforderungen bei der Optimierung.tex}
-	\subsection{Allgemeine Möglichkeiten der Optimierung}
-	\input{kapitel/Allgemeine Möglichkeiten der Optimierung.tex}
-	
+\begin{IEEEkeywords}
+	Künstliche Intelligenz, Energieversorgungssysteme, KI, AI, Neuronale Netze, Machine Learning, Maschinelles Lernen
+\end{IEEEkeywords}
 
-	\section{Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen}
-	\input{kapitel/Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen.tex}
-	\subsection{Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning}
-	\input{kapitel/Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex}
-	\subsection{Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung}
-	\input{kapitel/Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung.tex}
+%% Einleitung
+\section{Einleitung}
+\subsection{Hintergrund und Motivation des Themas}
+\input{kapitel/Hintergrund und Motivation des Themas.tex}
+%\section{Zielsetzung und Fragestellung der Arbeit}
+%\ldots
 
+\section{Grundlagen der künstlichen Intelligenz und Machine Learning}
+\input{kapitel/Grundlagen der künstlichen Intelligenz und Machine Learning.tex}
+\subsection{Neuronale Netze}
+\input{kapitel/neuronale netze.tex}
+\subsection{Typen von Machine Learning Algorithmen}
+\input{kapitel/typen von Machine Machine Learning.tex}
 
-	\section{Kritische Betrachtung und Ausblick}
-	\input{kapitel/Kritische Betrachtung und Ausblick.tex}
-	\subsection{Grenzen und Risiken von künstlicher Intelligenz}
-	\input{kapitel/Grenzen und Risiken von künstlicher Intelligenz.tex}
-	\subsection{Perspektiven}
-	\input{kapitel/Perspektiven.tex}
+\section{Optimierung von Energieversorgungssystemen}
+\input{kapitel/Optimierung von Energieversorgungssystemen.tex}
+\subsection{Überblick über Energieversorgungssystemen}
+\input{kapitel/Überblick von Energieversorgungssystemen.tex}
+\subsection{Herausforderungen bei der Optimierung}
+\input{kapitel/Herausforderungen bei der Optimierung.tex}
+\subsection{Allgemeine Möglichkeiten der Optimierung}
+\input{kapitel/Allgemeine Möglichkeiten der Optimierung.tex}
 
+\section{Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen}
+\input{kapitel/Rolle von künstlicher Intelligenz und Machine Learning bei der Optimierung von Energieversorgungssystemen.tex}
+\subsection{Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning}
+\input{kapitel/Potenzial und Vorteile von künstlicher Intelligenz und Machine Learning.tex}
+\subsection{Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung}
+\input{kapitel/Beispiele und Anwendungen von künstlicher Intelligenz und Machine Learning in der Energieversorgung.tex}
 
-	\section{Fazit und Ausblick}
-	\input{kapitel/Fazit und Ausblick.tex}
+\section{Kritische Betrachtung und Ausblick}
+\input{kapitel/Kritische Betrachtung und Ausblick.tex}
+\subsection{Grenzen und Risiken von künstlicher Intelligenz}
+\input{kapitel/Grenzen und Risiken von künstlicher Intelligenz.tex}
+\subsection{Perspektiven}
+\input{kapitel/Perspektiven.tex}
 
-	\printbibliography
+\section{Fazit und Ausblick}
+\input{kapitel/Fazit und Ausblick.tex}
+
+\printbibliography
 \end{document}
