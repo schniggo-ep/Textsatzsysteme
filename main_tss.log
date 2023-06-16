@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.28)  16 JUN 2023 12:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.28)  16 JUN 2023 13:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -886,10 +886,7 @@ File: ./svg-inkscape/neuronalenetze_prinzip_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/neuronalenetze_prinzip_svg-tex.pdf, page 5>
 Package pdftex.def Info: ./svg-inkscape/neuronalenetze_prinzip_svg-tex.pdf , page5 used on input line 64.
 (pdftex.def)             Requested size: 252.0pt x 82.81932pt.
-))
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1{C:/Users/Ms Laptop/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+)) [1{C:/Users/Ms Laptop/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 
 ] (kapitel/typen von Machine Machine Learning.tex (kapitel/Typen_ML/unsupervisedlearning.tex
@@ -984,17 +981,16 @@ File: ./svg-inkscape/reinforcementlearning_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/reinforcementlearning_svg-tex.pdf, page 4>
 Package pdftex.def Info: ./svg-inkscape/reinforcementlearning_svg-tex.pdf , page4 used on input line 67.
 (pdftex.def)             Requested size: 252.0pt x 194.73984pt.
-))) (kapitel/Optimierung von Energieversorgungssystemen.tex) (kapitel/Überblick von Energieversorgungssystemen.tex (kapitel/EVS/Konventionelle Energieversorgungssysteme.tex)
+)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)) (kapitel/Optimierung von Energieversorgungssystemen.tex) (kapitel/Überblick von Energieversorgungssystemen.tex (kapitel/EVS/Konventionelle Energieversorgungssysteme.tex)
 Underfull \hbox (badness 3568) in paragraph at lines 2--4
 []\T1/lmss/bx/n/10 Konventionelle Ener-gie-ver-sor-gungs-sys-te-me\T1/lmss/m/n/10 : Kon-
  []
 
-(kapitel/EVS/Erneuerbare Energieversorgungssysteme.tex
-Underfull \hbox (badness 1400) in paragraph at lines 4--24
-\T1/lmss/m/n/10 neu-er-ba-re Ener-gie-ver-sor-gungs-sys-te-me nut-zen na-t�r-li-
- []
-
-[3 <./svg-inkscape/reinforcementlearning_svg-tex.pdf> <./svg-inkscape/reinforcementlearning_svg-tex.pdf
+(kapitel/EVS/Erneuerbare Energieversorgungssysteme.tex [3 <./svg-inkscape/reinforcementlearning_svg-tex.pdf> <./svg-inkscape/reinforcementlearning_svg-tex.pdf
 
 pdfTeX warning: pdflatex (file ./svg-inkscape/reinforcementlearning_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 > <./svg-inkscape/reinforcementlearning_svg-tex.pdf
@@ -1064,9 +1060,9 @@ Here is how much of TeX's memory you used:
  38696 multiletter control sequences out of 15000+600000
  725155 words of font info for 158 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 94i,19n,122p,735b,2367s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,20n,123p,735b,2367s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}<C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbo10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso8.pfb>
-Output written on main_tss.pdf (8 pages, 316302 bytes).
+Output written on main_tss.pdf (8 pages, 316401 bytes).
 PDF statistics:
  173 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
